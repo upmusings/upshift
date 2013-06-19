@@ -1,0 +1,42 @@
+body {
+  font-family: Baskerville, serif;
+  text-align: center;
+  color: #222;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 14px;
+  opacity: 0;
+  transition: opacity .4s ease;
+}
+
+#tree {
+  position: relative;
+  width: 71px;
+  height: 87px;
+  background: url(../img/tree.png);
+  margin: 65px auto -5px;
+}
+
+#root, #apple {
+  position: absolute;
+}
+
+#root {
+  width: 7px;
+  height: 6px;
+  top: 80px;
+  right: 20px;
+  background: url(../img/root.png);
+  z-index: 2;
+}
+
+#apple {
+  width: 9px;
+  height: 8px;
+  /*top: 78px;*/
+  top: 43px;
+  right: 15px;
+  background: url(../img/apple.png);
+}
