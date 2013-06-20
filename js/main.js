@@ -27,8 +27,7 @@ $(function () {
 
         setTimeout(function() {
           $('#main').css('opacity', 1);
-          // unfix header
-          $('#header').removeClass('fixed');
+          $('#header').removeClass('fixed'); // unfix header
         }, 1500);
       }, 400);
     });

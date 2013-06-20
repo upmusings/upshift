@@ -87,7 +87,7 @@ h1 {
   display: none;
 }
 
-.work img {
+.work img, .code {
   border-radius: 4px;
 }
 
@@ -95,9 +95,22 @@ h1 {
   font-weight: bold;
 }
 
-figure, .slides {
+figure, .slides, .code {
   width: 760px;
   margin: 0 auto;
+}
+
+.code {
+  border: 2px dashed #eee;
+  width: 758px;
+  padding: 90px 0;
+}
+
+.code p {
+  margin: 0 auto 1em;
+  width: 250px;
+  line-height: 1.4;
+  text-align: left;
 }
 
 figcaption {
