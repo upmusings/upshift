@@ -1,5 +1,4 @@
-$(function () {
-
+$(function() {
   // retina images
   $('.work img').retina('@2x');
 
@@ -18,7 +17,9 @@ $(function () {
       }
     }
   });
+});
 
+$(window).load(function () {
   // orchestrate apple fall
   $('#apple').delay(700)
     .animate({ top: '78px' }, 400, 'easeOutBounce', function() {
@@ -31,5 +32,4 @@ $(function () {
         }, 1500);
       }, 400);
     });
-
 });
