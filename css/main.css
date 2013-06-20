@@ -1,14 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: Baskerville, serif;
   text-align: center;
   color: #222;
 }
 
+a {
+  color: #222;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+a:hover {
+  border-color: #222;
+}
+
 h1 {
+  margin-bottom: 90px;
   font-weight: normal;
   font-size: 14px;
-  opacity: 0;
-  transition: opacity .4s ease;
 }
 
 #tree {
@@ -35,8 +49,119 @@ h1 {
 #apple {
   width: 9px;
   height: 8px;
-  /*top: 78px;*/
   top: 43px;
   right: 15px;
   background: url(../img/apple.png);
+}
+
+.fixed {
+  position: fixed;
+  width: 100%;
+}
+
+#main, h1 {
+  opacity: 0;
+  -o-transition: opacity .4s ease;
+  -ms-transition: opacity .4s ease;
+  -moz-transition: opacity .4s ease;
+  -webkit-transition: opacity .4s ease;
+  transition: opacity .4s ease;
+}
+
+.work {
+  margin-bottom: 90px;
+  padding-top: 90px;
+  font-family: 'Lucida Sans', 'Lucida Grande', sans-serif;
+  font-size: 11px;
+}
+
+.work::after {
+  content: "☙";
+  position: relative;
+  top: 78px;
+  font-size: 2.5em;
+  color: #D4D4D4;
+}
+
+.work:last-child::after {
+  display: none;
+}
+
+.work img {
+  border-radius: 4px;
+}
+
+.project-name {
+  font-weight: bold;
+}
+
+figure, .slides {
+  width: 760px;
+  margin: 0 auto;
+}
+
+figcaption {
+  margin: 1em 0 0 4px;
+  text-align: left;
+  color: #7a7a7a;
+}
+
+.slides {
+  margin-bottom: -49px;
+}
+
+.slidesjs-container {
+  z-index: 1;
+}
+
+.slidesjs-pagination {
+  position: relative;
+  display: inline-block;
+  top: -38px;
+  padding: 0;
+  list-style: none;
+  z-index: 2;
+}
+
+.slidesjs-pagination-item {
+  display: inline-block;
+}
+
+.slidesjs-pagination-item a {
+  display: block;
+  width: 7px;
+  height: 7px;
+  margin-right: 7px;
+  background: #ddd;
+  border: none;
+  border-radius: 7px;
+  text-indent: -999em;
+  overflow: hidden;
+}
+
+.slidesjs-pagination-item:last-child a {
+  margin: 0;
+}
+
+.slidesjs-pagination-item .active {
+  background: #7a7a7a;
+}
+
+
+/* Retina stuff */
+@media (-webkit-min-device-pixel-ratio: 2) {
+  #tree {
+    background-image: url(../img/tree@2x.png);
+    background-size: 71px 87px;
+  }
+
+  #root {
+    background-image: url(../img/root@2x.png);
+    background-size: 7px 6px;
+  }
+
+  #apple {
+    background-image: url(../img/apple@2x.png);
+    background-size: 9px 8px;
+  }
 }
