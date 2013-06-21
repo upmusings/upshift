@@ -91,17 +91,18 @@ h1 {
   height: 17px;
   padding: 0 8px 0 15px;
   margin-right: 2px;
-  background: #eee url(../img/tag.png) right top no-repeat;
+  background: #eee url(../img/tag.png) 0 -17px no-repeat;
 }
 
-.tags li::before {
+.tags li::after {
   content: "";
   position: absolute;
   display: block;
-  width: 9px;
+  width: 4px;
   height: 17px;
-  left: 0;
-  background: url(../img/tag.png) right -17px no-repeat;
+  right: 0;
+  top: 0;
+  background: url(../img/tag.png) right top no-repeat;
 }
 
 .tags a {
@@ -162,7 +163,7 @@ figcaption {
 }
 
 .slides {
-  margin-bottom: -31px;
+  margin-bottom: -40px;
 }
 
 .slidesjs-container {
@@ -218,5 +219,10 @@ figcaption {
   #apple {
     background-image: url(../img/apple@2x.png);
     background-size: 9px 8px;
+  }
+
+  .tags li, .tags li::after {
+    background-image: url(../img/tag@2x.png);
+    background-size: 9px 34px;
   }
 }
