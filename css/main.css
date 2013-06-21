@@ -101,14 +101,14 @@ figure, .slides, .code {
 
 .code {
   border: 2px dashed #eee;
-  width: 758px;
+  width: 756px;
   padding: 90px 0;
   font-size: 14px;
 }
 
 .code p {
   margin: 0 auto 1em;
-  width: 250px;
+  width: 266px;
   line-height: 1.4;
   text-align: left;
 }
