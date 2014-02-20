@@ -9,6 +9,8 @@ body {
   color: #222;
 }
 
+.preload #main, .preload h1 { -webkit-transition:none !important; -moz-transition:none !important; -o-transition:none !important; -ms-transition:none !important; transition:none !important }
+
 .tags, figcaption {
   font-family: 'Lucida Sans', 'Lucida Grande', sans-serif;
 }
@@ -39,6 +41,7 @@ h1 {
 
 #root, #apple {
   position: absolute;
+  display: none;
 }
 
 #root {

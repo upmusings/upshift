@@ -20,7 +20,9 @@ $(function() {
 });
 
 $(window).load(function () {
+  $('body').removeClass('preload');
   // orchestrate apple fall
+  $('#apple, #root').show();
   $('#apple').delay(700)
     .animate({ top: '78px' }, 400, 'easeOutBounce', function() {
       setTimeout(function() {
