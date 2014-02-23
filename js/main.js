@@ -19,7 +19,7 @@ $(function() {
   });
 });
 
-$(window).load(function () {
+$('#boot').load(function () {
   $('body').removeClass('preload');
   // orchestrate apple fall
   $('#apple, #root').show();
@@ -31,7 +31,7 @@ $(window).load(function () {
         setTimeout(function() {
           $('#main').css('opacity', 1);
           $('#header').removeClass('fixed'); // unfix header
-        }, 1500);
+        }, 600);
       }, 400);
     });
 });
