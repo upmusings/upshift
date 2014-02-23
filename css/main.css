@@ -166,6 +166,7 @@ figcaption {
 
 .slides {
   margin-bottom: -40px;
+  position: relative;
 }
 
 .slidesjs-container {
@@ -203,6 +204,19 @@ figcaption {
 
 .slidesjs-pagination-item .active {
   background: #7a7a7a;
+}
+
+.slidesjs-next {
+  display: block;
+  position: absolute;
+  width: 760px;
+  height: 600px;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  text-indent: -999em;
+  overflow: hidden;
+  cursor: pointer;
 }
 
 

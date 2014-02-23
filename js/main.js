@@ -6,7 +6,10 @@ $(function() {
   $('.slides').slidesjs({
     width: 760,
     height: 640,
-    navigation: false,
+    navigation: {
+      active: false,
+      effect: 'fade'
+    },
     pagination: {
       effect: 'fade'
     },
