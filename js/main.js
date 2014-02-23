@@ -20,9 +20,7 @@ $(function() {
       }
     }
   });
-});
 
-$('#boot').load(function () {
   $('body').removeClass('preload');
   // orchestrate apple fall
   $('#apple, #root').show();
