@@ -1,6 +1,6 @@
 $(function() {
   // retina images
-  $('.work img').retina('@2x');
+  $('.work figure img').retina('@2x');
 
   // setup image sliders
   $('.slides').slidesjs({
