@@ -221,7 +221,7 @@ figcaption {
 
 
 /* Retina stuff */
-@media (-webkit-min-device-pixel-ratio: 2) {
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   #tree {
     background-image: url(../img/tree@2x.png);
     background-size: 71px 87px;
