@@ -1,0 +1,16 @@
+---
+title: Journal
+---
+
+<ul>
+	{% for post in site.posts %}
+	<li>
+		{% if post.title == '' %}
+		{{ post.content }} <a href="{{ post.url }}">Permalink</a>
+		{% else %}
+		<h2>{{ post.title }}</h2>
+		{{ post.excerpt }} <a href="{{ post.url }}">More…</a>
+		{% endif %}
+	</li>
+	{% endfor %}
+</ul>

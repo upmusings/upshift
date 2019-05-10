@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	
+	<title>
+		{% if page.title %}
+			{% if page.title != '' %}
+				{{ page.title }} – 
+			{% else %}
+				{{ page.date | date_to_string }} –
+			{% endif %}
+		{% endif %}
+		Pete Schaffner
+	</title>
+	<link rel="stylesheet" href="/assets/css/styles.css" />
+	{% feed_meta %}
+</head>
+<body{% if page.id %} id="{{ page.id }}"{% endif %}>
+	<nav>
+		<a href="/">Pete Schaffner</a>
+		<a href="/journal" {% if page.url contains 'journal' %}class="current"{% endif %}>Journal</a>
+		<a href="/resume" {% if page.url contains 'resume' %}class="current"{% endif %}>Résumé</a>
+	</nav>
+	
+	{{ content }}
+	
+</body>
+</html>

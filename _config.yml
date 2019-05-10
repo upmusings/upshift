@@ -1,0 +1,24 @@
+theme: null # This prevents github-pages gem from forcing a theme which outputs a default stylesheet that we don't need.
+
+permalink: pretty
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+
+plugins:
+  - jekyll-feed
+    
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      title: "" # Explicitly add a title if you want a non-micro post.
+  - scope:
+      path: ""
+    values:
+      layout: "default"

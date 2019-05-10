@@ -1,0 +1,11 @@
+nav .current {
+	color: #C4232A;
+}
+
+#home p:first-of-type {
+	font-size: 2em;
+}
+
+::selection {
+	background-color: #F9E9E9;
+}
