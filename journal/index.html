@@ -4,13 +4,15 @@ title: Journal
 
 <ul>
 	{% for post in site.posts %}
-	<li>
-		{% if post.title == '' %}
-		{{ post.content }} <a href="{{ post.url }}">Permalink</a>
-		{% else %}
-		<h2>{{ post.title }}</h2>
-		{{ post.excerpt }} <a href="{{ post.url }}">More…</a>
-		{% endif %}
-	</li>
+		<li>
+			{% if post.title != '' %}
+				<h2>{% if post.link %}<a href="{{ post.link }}">{% endif %}{{ post.title }}{% if post.link %}</a> ↗︎{% endif %}</h2>
+			{% endif %}
+				<p>{{ post.date | date_to_string }} <a href="{{ post.url }}">∞</a></p>
+				{{ post.excerpt }}
+				{% if post.content contains site.excerpt_separator %}
+				<a href="{{ post.url }}">More…</a>
+				{% endif %}
+		</li>
 	{% endfor %}
 </ul>

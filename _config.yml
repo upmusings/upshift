@@ -1,16 +1,18 @@
+# Site variables
+excerpt_separator: <!-- more -->
+
+# Build settings
 theme: null # This prevents github-pages gem from forcing a theme which outputs a default stylesheet that we don't need.
-
-permalink: pretty
-
+plugins:
+  - jekyll-feed
 exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
   - Makefile
 
-plugins:
-  - jekyll-feed
-    
+# Site settings
+permalink: pretty
 defaults:
   - scope:
       path: ""
@@ -18,6 +20,7 @@ defaults:
     values:
       layout: "post"
       title: "" # Explicitly add a title if you want a non-micro post.
+      excerpt_separator: <!-- more -->
   - scope:
       path: ""
     values:
