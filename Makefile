@@ -17,4 +17,12 @@ new-post:
 	touch $(POST_FILE)
 	echo "---\ndate: $(POST_DATE) $(POST_TIME)\ntitle: $(title)\n---" >> $(POST_FILE)
 
-.PHONY: serve new-micro-post new-post
+post-date:
+	@echo $(POST_DATE)
+	@echo $(POST_DATE) | pbcopy
+
+post-time:
+	@echo $(POST_TIME)
+	@echo $(POST_TIME) | pbcopy
+
+.PHONY: serve new-micro-post new-post post-date post-time
