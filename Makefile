@@ -11,10 +11,10 @@ serve: Gemfile.lock
 
 new-micro-post:
 	touch $(MICRO_POST_FILE)
-	echo "---\nlayout: post\ndate: $(POST_DATE) $(POST_TIME)\n---" >> $(MICRO_POST_FILE)
+	echo "---\ndate: $(POST_DATE) $(POST_TIME)\n---" >> $(MICRO_POST_FILE)
 
 new-post:
 	touch $(POST_FILE)
-	echo "---\nlayout: post\ndate: $(POST_DATE) $(POST_TIME)\ntitle: $(title)\n---" >> $(POST_FILE)
+	echo "---\ndate: $(POST_DATE) $(POST_TIME)\ntitle: $(title)\n---" >> $(POST_FILE)
 
 .PHONY: serve new-micro-post new-post
