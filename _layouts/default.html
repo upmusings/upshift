@@ -19,8 +19,9 @@
 <body{% if page.id %} id="{{ page.id }}"{% endif %}>
 	<nav>
 		<a href="/">Pete Schaffner</a>
-		<a href="/journal" {% if page.url contains 'journal' %}class="current"{% endif %}>Journal</a>
-		<a href="/resume" {% if page.url contains 'resume' %}class="current"{% endif %}>Résumé</a>
+		<a href="/journal"{% if page.url contains 'journal' %} class="current"{% endif %}>Journal</a>
+		<a href="/work"{% if page.url contains 'work' %} class="current"{% endif %}>Work</a>
+		<a href="/resume"{% if page.url contains 'resume' %} class="current"{% endif %}>Résumé</a>
 	</nav>
 	
 	{{ content }}
