@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2019-05-10 15:46:31 +0200
 title: Hello World!
 ---
