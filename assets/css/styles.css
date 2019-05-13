@@ -1,11 +1,169 @@
-nav .current {
-	color: #C4232A;
+:root {
+	--color-black: 25, 18, 19;
+	--color-red: 196, 35, 42;
+	--color-light-red: 249, 233, 233;
+	--font-sans-serif: "Calluna Sans", "Gill Sans", sans-serif;
+	--font-serif: Calluna, Baskerville, serif;
 }
 
-#home p:first-of-type {
-	font-size: 2em;
+* , * :before, * :after {
+    box-sizing: border-box; /* Padding and border will be inside of the box */
+    font-kerning: normal; /* Font kerning information stored in the font must be applied */
 }
 
 ::selection {
-	background-color: #F9E9E9;
+	background-color: rgb(var(--color-light-red));
+	text-shadow: -1px -1px rgb(var(--color-light-red)), -1px 1px rgb(var(--color-light-red)), 1px -1px rgb(var(--color-light-red)), 1px 1px rgb(var(--color-light-red)); /* Skip descenders when underlining */
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	height: 100vh; /* Avoid the IE 10-11 `min-height` bug. */
+	margin: 0;
+	font-family: var(--font-serif);
+	font-size: 20px;
+	line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: rgb(var(--color-black));
+}
+
+a {
+	text-decoration: none;
+	background-image: linear-gradient(to bottom, rgba(var(--color-black), .3) 50%, rgba(var(--color-black), .3) 50%);
+	background-position: 0 91%;
+	background-repeat: repeat-x;
+	background-size: 1px 1px;
+	text-shadow: -1px -1px white, -1px 1px white, 1px -1px white, 1px 1px white; /* Skip descenders when underlining */
+	color: rgb(var(--color-black));
+}
+
+a:hover {
+	color: rgb(var(--color-red));
+	background-image: linear-gradient(to bottom, rgba(var(--color-red), .3) 50%, rgba(var(--color-red), .3) 50%);
+}
+
+
+
+/* Navigation
+   ========== */
+nav {
+	display: flex;
+	align-items: flex-end;
+	flex-shrink: 0;
+	justify-content: space-between;
+	padding: 62px 0 48px 0;
+	font-family: var(--font-sans-serif);
+	font-size: 16px;
+	border-bottom: 1px solid rgba(var(--color-black), .1);
+}
+
+nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 42px;
+}
+
+nav a {
+	background-image: none;
+}
+
+nav a:hover {
+	color: rgb(var(--color-red));
+	background-image: none;
+}
+
+nav .current {
+	color: rgb(var(--color-red));
+}
+
+nav .current::after {
+	
+}
+
+nav > a {
+	position: relative;
+	top: -2px;
+	display: block;
+	float: left;
+	width: 1px;
+	margin-left: 6px;
+	font-family: var(--font-serif);
+	font-weight: 800;
+	font-size: 30px;
+	line-height: 0.85;
+	text-indent: -6px;
+	background-image: none;
+}
+
+
+/* Content
+   ======= */
+.content {
+	flex: 1 0 auto; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+}
+
+.constrained {
+	width: 617px;
+	margin: 0 auto;
+}
+
+.external-link-arrow {
+	position: relative;
+	left: 3px;
+	font-size: 14px;
+	vertical-align: text-top;
+}
+
+
+/* Homepage
+   ======== */
+#home p:first-of-type {
+	font-size: 1.5em;
+}
+
+
+/* Journal
+   ======= */
+#journal h2 {
+	font-size: 2em;
+}
+
+.date, .date:hover {
+	background-image: none;
+}
+
+.date span {
+	color: rgb(var(--color-red));
+}
+
+
+/* Footer
+   ====== */
+footer {
+	padding: 48px 0;
+	flex-shrink: 0; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+	font-family: var(--font-sans-serif);
+	font-size: 16px;
+	text-align: right;
+	border-top: 1px solid rgba(var(--color-black), .1);
+}
+
+footer a {
+	background-image: none;
+}
+
+footer a:hover {
+	color: rgb(var(--color-red));
+	background-image: none;
 }
