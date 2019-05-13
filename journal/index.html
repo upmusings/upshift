@@ -6,7 +6,7 @@ title: Journal
 	{% for post in site.posts %}
 		<li>
 			{% if post.title != '' %}
-				<h2>{% if post.link %}<a href="{{ post.link }}">{% endif %}{{ post.title }}{% if post.link %}</a>{% endif %}</h2>
+				<h2>{% if post.link %}<a class="external-link" href="{{ post.link }}">{% endif %}{{ post.title }}{% if post.link %}</a><span class="external-link-arrow">⬈</span>{% endif %}</h2>
 			{% endif %}
 				<p>{{ post.date | date_to_string }} <a href="{{ post.url }}">∞</a></p>
 				{{ post.excerpt }}

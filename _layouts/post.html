@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% unless page.title == '' %}
-<h1>{% if page.link %}<a href="{{ page.link }}">{% endif %}{{ page.title }}{% if page.link %}</a>{% endif %}</h1>
+<h1>{% if page.link %}<a href="{{ page.link }}">{% endif %}{{ page.title }}{% if page.link %}</a><span class="external-link-arrow">⬈</span>{% endif %}</h1>
 {% endunless %}
 <p>{{ page.date | date_to_string }}</p>
 
