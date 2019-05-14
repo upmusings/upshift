@@ -1,6 +1,3 @@
-# Site variables
-excerpt_separator: <!-- more -->
-
 # Build settings
 theme: null # This prevents github-pages gem from forcing a theme which outputs a default stylesheet that we don't need.
 plugins:

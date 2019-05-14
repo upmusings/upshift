@@ -11,7 +11,7 @@ id: journal
 			{% endif %}
 				<a class="date" href="{{ post.url }}">{{ post.date | date_to_string }} <span>∞</span></a>
 				{{ post.excerpt }}
-				{% if post.content contains site.excerpt_separator %}
+				{% if post.content contains '<!-- more -->' %}
 				<a href="{{ post.url }}">More…</a>
 				{% endif %}
 		</li>
