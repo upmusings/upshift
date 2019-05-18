@@ -2,7 +2,7 @@ title = TITLE
 POST_DATE := $(shell date +%Y-%m-%d)
 POST_TIME := $(shell date +%T\ %z)
 POST_SLUG := $(shell date +%H%M%S)
-POST_PATH := journal/_drafts/
+POST_PATH := words/_drafts/
 POST_FILE := $(POST_PATH)$(POST_DATE)-$(title).md
 MICRO_POST_FILE := $(POST_PATH)$(POST_DATE)-$(POST_SLUG).md
 
