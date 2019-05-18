@@ -6,28 +6,27 @@
 	<title>
 		{% if page.url != '/' %}
 			{% if page.title != '' %}
-				{{ page.title }} – 
+				{{ page.title }} · 
 			{% else %}
-				{{ page.date | date_to_string }} –
+				{{ page.date | date_to_string }} ·
 			{% endif %}
 		{% endif %}
 		Pete Schaffner
 	</title>
-	<link rel="stylesheet" href="/assets/css/styles.css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="The words & work of Pete Schaffner">
+	<meta name="author" content="Pete Schaffner">
 	{% feed_meta %}
+	<link rel="stylesheet" href="/assets/css/styles.css" />
 </head>
 <body{% if page.id %} id="{{ page.id }}"{% endif %}>
 	<nav class="constrained">
-		<a href="/">Pete Schaffner</a>
-		<ul>
-			<li><a href="/journal"{% if page.url contains 'journal' %} class="current"{% endif %}>Journal</a></li>
-			<li><a href="/work"{% if page.url contains 'work' %} class="current"{% endif %}>Work</a></li>
-			<li><a href="/resume"{% if page.url contains 'resume' %} class="current"{% endif %}>Résumé</a></li>
-		</ul>
+		The <a href="/words"{% if page.url contains 'words' %} class="current"{% endif %}>words</a> <i>&</i> <a href="/work"{% if page.url contains 'work' %} class="current"{% endif %}>work</a> of <a href="/"{% if page.url == '/' %} class="current"{% endif %}><span>Pete&nbsp;Schaffner</span></a>
 	</nav>
-	<div class="content constrained">	
+	
+	<main class="constrained">	
 		{{ content }}
-	</div>
+	</main>
 	
 	<footer class="constrained">
 		© {{ site.time | date: '%Y' }} · <a href="/feed.xml">RSS</a> · <a href="/colophon">Colophon</a>
