@@ -73,6 +73,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility; /* Enables kerning and optional ligatures */
+	font-feature-settings: 'onum' 1;
 	color: rgb(var(--color-black));
 }
 
