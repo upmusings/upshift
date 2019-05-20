@@ -84,7 +84,7 @@ a {
 	background-repeat: repeat-x;
 	background-size: 1px 1px;
 	text-shadow: -1px -1px white, -1px 1px white, 1px -1px white, 1px 1px white; /* Skip descenders when underlining */
-	color: rgb(var(--color-black));
+	color: inherit;
 }
 
 a:hover {
@@ -178,11 +178,11 @@ article h1 {
 	font-family: var(--font-small-caps);
 }
 
-.date, .date a {
+.date {
 	color: rgba(var(--color-black), .5);
 }
 
-.date a, .date a:hover {
+.date a, .date a:hover, h1 > a, h1 > a:hover, h2 > a, h2 > a:hover {
 	background-image: none;
 }
 
