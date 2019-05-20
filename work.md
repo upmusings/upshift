@@ -2,4 +2,4 @@
 title: Work
 ---
 
-<h2>Pottery</h2>
+Coming soon...
