@@ -99,7 +99,6 @@ a:hover {
 nav {
 	padding: 100px 0 48px 0;
 	font-size: 15px;
-	font-style: italic;
 	text-align: center;
 	border-bottom: 1px solid rgba(var(--color-black), .1);
 }
