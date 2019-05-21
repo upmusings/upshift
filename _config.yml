@@ -22,3 +22,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+# Site variables
+title: Pete Schaffner
+description: The words & work of Pete Schaffner

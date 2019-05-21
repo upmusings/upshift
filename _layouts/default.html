@@ -11,10 +11,10 @@
 				{{ page.date | date_to_string }} ·
 			{% endif %}
 		{% endif %}
-		Pete Schaffner
+		{{ site.title }}
 	</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="The words & work of Pete Schaffner">
+	<meta name="description" content="{{ site.description }}">
 	<meta name="author" content="Pete Schaffner">
 	{% feed_meta %}
 	<link rel="stylesheet" href="/assets/css/fonts.css" />
