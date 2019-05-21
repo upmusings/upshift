@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2019-05-21 22:35:21 +0200
 ---
 
 Hi, [I'm Pete](/) and this is my little corner of the internet. Today marks the first day of its existence—I hope there are many more to come.
@@ -16,6 +17,3 @@ And on the subject of writing, [Tim Smith has three rules](https://brightpixels.
   3. I will write because it’s fun and has a personal archival purpose, not because I want recognition or validation
 
 Other than to write, there is a second reason this site exists: it is a creative outlet for me. I love to tweak its design, tech, you-name-it. If you are curious about how it is designed and/or made, check out the [colophon](/colophon).
-
-xoxo,  
-Pete
