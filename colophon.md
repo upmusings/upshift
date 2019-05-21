@@ -1,6 +1,6 @@
 # Colophon
 
-This site is set in [Valkyrie](https://mbtype.com/fonts/valkyrie/), built with [Jekyll](http://https://jekyllrb.com), and hosted on [GitHub Pages](http://https://pages.github.com). You can check out the source [here](https://github.com/peteschaffner/peteschaffner.github.io).
+This site is set in [Valkyrie](https://mbtype.com/fonts/valkyrie/), built with [Jekyll](https://jekyllrb.com), and hosted on [GitHub Pages](https://pages.github.com). You can check out the source [here](https://github.com/peteschaffner/peteschaffner.github.io).
 
 ---
 
