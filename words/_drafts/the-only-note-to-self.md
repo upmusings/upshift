@@ -1,5 +1,6 @@
 ---
 title: “The Only Note to Self”
+date: 2019-05-21 23:12:14 +0200
 link: https://frankchimero.com/blog/2014/the-only-note-to-self/
 ---
 
