@@ -151,21 +151,18 @@ article h1 {
 	transform: rotate(45deg);
 }
 
-.date {
+time {
 	font-size: 15px;
 	text-transform: lowercase;
 	font-family: var(--font-small-caps);
-}
-
-.date {
 	color: rgba(var(--color-text), .5);
 }
 
-.date a, .date a:hover, h1 > a, h1 > a:hover, h2 > a, h2 > a:hover {
+time a, time a:hover, h1 > a, h1 > a:hover, h2 > a, h2 > a:hover {
 	background-image: none;
 }
 
-.date span {
+time span {
 	color: rgb(var(--color-accent));
 }
 

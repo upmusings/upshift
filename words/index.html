@@ -10,7 +10,7 @@ id_attribute: words
 			{% if post.title != '' %}
 				<h2><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">↑</span>{% endif %}</h2>
 			{% endif %}
-				<div class="date"><a href="{{ post.url }}">{{ post.date | date_to_string }} <span>∞</span></a></div>
+				<time datetime="{{ post.date }}"><a href="{{ post.url }}">{{ post.date | date_to_string }} <span>∞</span></a></time>
 			</header>
 				{{ post.excerpt }}
 				{% if post.content contains '<!-- more -->' %}
