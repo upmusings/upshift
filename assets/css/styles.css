@@ -148,7 +148,7 @@ article h1 {
 	left: 3px;
 	font-size: 0.7em;
 	vertical-align: text-top;
-	transform: rotate(45deg);
+	transform: rotate(-45deg);
 }
 
 time {

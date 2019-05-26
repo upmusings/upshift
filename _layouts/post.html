@@ -5,7 +5,7 @@ layout: default
 <article>
 	<header>	
 		{% unless page.title == '' %}
-		<h1>{% if page.link %}<a href="{{ page.link }}">{% endif %}{{ page.title }}{% if page.link %}</a><span class="external-link-arrow">↑</span>{% endif %}</h1>
+		<h1>{% if page.link %}<a href="{{ page.link }}">{% endif %}{{ page.title }}{% if page.link %}</a><span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% endunless %}
 		<time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
 	</header>
