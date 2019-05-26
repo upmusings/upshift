@@ -170,26 +170,17 @@ time span {
 /* Words
    ======= */
    
-#words h2 {
+#words h1 {
 	margin: 0;
+	font-size: 1.5em;
 }
 
-#words ul:first-of-type {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-
-#words ul:first-of-type li {
+#words section {
 	padding: 48px 0;
 	border-bottom: 1px solid rgba(var(--color-text), .1);
 }
 
-#words ul:first-of-type li:first-child {
-	padding-top: 0;
-}
-
-#words ul:first-of-type li:last-child {
+#words section:last-child {
 	border: none;
 }
 
