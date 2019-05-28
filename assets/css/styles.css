@@ -180,6 +180,10 @@ time span {
 	border-bottom: 1px solid rgba(var(--color-text), .1);
 }
 
+#words section:first-child {
+	padding-top: 0;
+}
+
 #words section:last-child {
 	border: none;
 }
