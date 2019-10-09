@@ -105,7 +105,7 @@ nav .current {
 
 main {
 	flex: 1 0 auto; /* For a sticky footer */
-	padding: 62px 0 48px 0;
+	padding: 40px 0 48px 0;
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
 	-ms-hyphens: auto;
@@ -135,6 +135,7 @@ hr:after {
 
 blockquote {
 	font-style: italic;
+	font-size: .85em;
 }
 
 article h1 {
