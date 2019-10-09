@@ -1,7 +1,22 @@
-# Hi, I’m Pete—
 
-an American software designer based in Paris, France. I’m passionate about Apple platforms, native software, the view-source web and learning by doing. Away from the computer I’m a husband, a father and a lover of the wild.
 
-Professionally, I work at Google on [Chrome for iOS](https://itunes.apple.com/us/app/google-chrome/id535886823?mt=8). I also recently took over the macOS app, [Espresso](https://espressoapp.com) (though I am currently trying to find a new home for it—you can read more about why [here](https://espressoapp.com/blog/espresso-for-sale/)).
+### Hi, I’m Silas—
 
-I'm generally an open book, so please feel free to reach out. I'm available on [Micro.blog](https://micro.blog/peteschaffner), [GitHub](https://github.com/peteschaffner) and via [email](mailto:peteschaffner@icloud.com).
+A hobbyist with a few projects. With help from a few friends, I keep this site alive.
+
+I’m currently creating React resources for designers. My areas of interest include design systems, creative arts, digital health and medicine. I took part building [truism.space](https://truism.space) (though I am currently trying to find a new home for it—you can still check it out.
+
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/about-work.png" alt="work" width="100%"/>
+
+<p><span style="color:red"> <strong> < WORK/> </strong></span>. <em>verb</em><br>
+<small>\ ˈwərk  \worked\ ˈwərkt  \ or wrought\ ˈrȯt  \; working<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ to fashion or create a useful or desired product by expending labor or exertion and disciplines the mind.</small></p>
+
+I took part in few projects including
+- MUSSD
+- KiliAnayltics
+- AfyaPot
+- Dr Styls
+
+   
+Got ideas? Shoot me an [email](mailto:silasgamba@gmail.com) or via [Twitter.](https://twitter.com/silas_kg) 
