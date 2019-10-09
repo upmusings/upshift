@@ -9,10 +9,8 @@ I’m currently creating React resources for designers. My areas of interest inc
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/about-work.png" alt="work" width="100%"/>
 
 <p><span style="color:red"> <strong> < WORK/> </strong></span>. <em>verb</em><br>
-<small>\ ˈwərk  \worked\ ˈwərkt  \ or wrought\ ˈrȯt  \; working<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ to fashion or create a useful or desired product by expending labor or exertion and disciplines the mind.</small></p>
-
-I took part in few projects including
+<small>\ ˈwərk  \worked\ ˈwərkt  \ or wrought\ ˈrȯt  \; working<br></small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ to fashion or create a useful or desired product by expending labor or exertion and disciplines the mind.I took part in few projects including;</p>
 - MUSSD
 - KiliAnayltics
 - AfyaPot
