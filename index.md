@@ -4,7 +4,7 @@
 
 A hobbyist with a few projects. With help from a few friends, I keep this site alive.
 
-I’m currently creating React resources for designers. My areas of interest include design systems, creative arts, digital health and medicine. I took part building [truism.space](https://truism.space) (though I am currently trying to find a new home for it—you can still check it out.
+I’m currently creating React resources for designers. My areas of interest include design systems, creative arts, digital health and medicine. I took part building [truisms.space](https://truism.space) (Js. gerated cool smartphone wallpapers.)
 
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/about-work.png" alt="work" width="100%"/>
 
