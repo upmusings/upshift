@@ -9,3 +9,11 @@ Valkyrie is a humanist typeface made by [Matthew Butterick](https://mbtype.com/b
 As for content management, I've used many static site generators in the past (including [one made by hager](https://github.com/hagerstown/comprehensive-plan)), but decided to use Jekyll because [it works seamlessly with GitHub Pages](https://jekyllrb.com/docs/github-pages/). Changes are tracked by Git and every time I push, my site is automatically built—saving me the headache of having to deploy the built files to a separate repo or branch.
 
 It may also interest some that this blog supports title-less posts by design, making it easy and efficient to get thoughts out without stewing over an appropriate title. This also works really well for integrating with Micro.blog. To accomplish this I've set an empty default title for posts and used a healthy amount of conditionals in my templates.
+
+## This is a curated list of some of the best or most important tools/resources I’ve come across.
+>
+- HTML is stressful, I’d rather write in [Markdown.](https://daringfireball.net/projects/markdown/)
+- Currently am reading [“The Uninhabitable Earth”](https://www.theguardian.com/books/2019/feb/27/the-uninhabitable-earth-review-david-wallace-wells) by David Wallace-Wells. Important and horrifying.
+- I Keep a private micro journal in [iPhone notes](). Note down thoughts each day, how dull they might be.
+- Am a big fan of the [Inzovu Curve](http://inzovucurve.org/)
+- Check this cool video with [Trump & Co singing](https://youtu.be/Lfa5WvqBSq4) 
