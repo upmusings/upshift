@@ -26,3 +26,7 @@ defaults:
 # Site variables
 title: The Upshift
 description: The words & work of Gamba SK
+
+# emojis
+gems:
+  - jemoji
