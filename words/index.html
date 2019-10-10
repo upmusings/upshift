@@ -1,20 +1,51 @@
+<html class="gr__upshift_tk"><head>
+	<meta charset="utf-8">
+	
+	<title>
+		
+		The Upshift
+	</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="The words &amp; work of Gamba SK">
+	<meta name="author" content="Pete Schaffner">
+	<link type="application/atom+xml" rel="alternate" href="https://upshift.tk/feed.xml" title="The Upshift">
+	<link href="https://micro.blog/8thmagic" rel="me">
+	<link rel="stylesheet" href="/assets/css/fonts.css">
+	<link rel="stylesheet" href="/assets/css/styles.css">
+	<link rel="shortcut icon" type="image/png" href="favicon.png">
+</head>
+<body data-gr-c-s-loaded="true">
+	<nav class="constrained">
+		The <a href="/words">words</a> <i>&amp;</i> <a href="/work">work</a> of <a href="/words/index.html">Sila&nbsp;Gamba</a>
+	</nav>
+	
+	<main class="constrained">	
+		
+<h3 id="hi-im-silas">Hi, I’m Silas—</h3>
 
+<p>A hobbyist with a few projects. With help from a few friends, I keep this site alive.</p>
 
-### Hi, I’m Silas—
+<p>I’m currently creating React resources for designers. My areas of interest include design systems, creative arts, digital health and medicine. I took part building <a href="https://truism.space">truisms.space</a> (Js. gerated cool smartphone wallpapers.)</p>
 
-A hobbyist with a few projects. With help from a few friends, I keep this site alive.
+<p><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/about-work.png" alt="work" width="100%"></p>
 
-I’m currently creating React resources for designers. My areas of interest include design systems, creative arts, digital health and medicine. I took part building [truisms.space](https://truism.space) (Js. gerated cool smartphone wallpapers.)
-
-<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/about-work.png" alt="work" width="100%"/>
-
-<p><span style="color:red"> <strong> < WORK/> </strong></span>. <em>verb</em><br>
+<p><span style="color:red"> <strong> &lt; WORK/&gt; </strong></span>. <em>verb</em><br>
 <small>\ ˈwərk  \worked\ ˈwərkt  \ or wrought\ ˈrȯt  \; working<br></small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ to fashion or create a useful or desired product by expending labor or exertion and disciplines the mind. I've took part in few projects including;</p>
-- MUSSD
-- KiliAnayltics
-- AfyaPot
-- Dr Styls
+<ul>
+  <li>MUSSD</li>
+  <li>KiliAnayltics</li>
+  <li>AfyaPot</li>
+  <li>Dr Styls</li>
+</ul>
 
-   
-Got ideas? Shoot me an [email](mailto:silasgamba@gmail.com) or via [Twitter.](https://twitter.com/silas_kg) 
+<p>Got ideas? Shoot me an <a href="mailto:silasgamba@gmail.com">email</a> or via <a href="https://twitter.com/silas_kg">Twitter.</a></p>
+
+	</main>
+	
+	<footer class="constrained">
+		© 2019 · <a href="/feed.xml">RSS</a> · <a href="/colophon">Colophon</a> · <a href="https://github.com/upmusings/upshift">View Source</a>
+ 	</footer>
+
+
+</body></html>
