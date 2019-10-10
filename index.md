@@ -1,20 +1,19 @@
+---
+title: Words
+id_attribute: words
+---
 
-
-### Hi, I’m Silas—
-
-A hobbyist with a few projects. With help from a few friends, I keep this site alive.
-
-I’m currently creating React resources for designers. My areas of interest include design systems, creative arts, digital health and medicine. I took part building [truisms.space](https://truism.space) (Js. gerated cool smartphone wallpapers.)
-
-<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/about-work.png" alt="work" width="100%"/>
-
-<p><span style="color:red"> <strong> < WORK/> </strong></span>. <em>verb</em><br>
-<small>\ ˈwərk  \worked\ ˈwərkt  \ or wrought\ ˈrȯt  \; working<br></small>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ to fashion or create a useful or desired product by expending labor or exertion and disciplines the mind. I've took part in few projects including;</p>
-- MUSSD
-- KiliAnayltics
-- AfyaPot
-- Dr Styls
-
-   
-Got ideas? Shoot me an [email](mailto:silasgamba@gmail.com) or via [Twitter.](https://twitter.com/silas_kg) 
+{% for post in site.posts %}
+<section>
+	<header>
+		{% if post.title != '' %}
+		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
+		{% endif %}
+		<time datetime="{{ post.date }}"><a href="{{ post.url }}">{{ post.date | date_to_string }} <span>∞</span></a></time>
+	</header>
+		{{ post.excerpt }}
+		{% if post.content contains '<!-- more -->' %}
+		<a href="{{ post.url }}">More…</a>
+		{% endif %}
+</section>
+{% endfor %}
