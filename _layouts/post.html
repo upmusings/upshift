@@ -8,6 +8,15 @@ layout: default
 		<h1>{% if page.link %}<a href="{{ page.link }}">{% endif %}{{ page.title }}{% if page.link %}</a><span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% endunless %}
 		<time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+		<style> 
+        p { 
+           
+        } 
+        .sharethis-inline-reaction-buttons { 
+   
+            height:30px; 
+            border-radius: 20px 20px 0px 0px; 
+			} </style>
 	</header>
 	
 	{{ content }}
