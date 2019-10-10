@@ -4,7 +4,7 @@ theme: null # This prevents github-pages gem from forcing a theme which outputs 
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-archives
+
 exclude:
   - CNAME
   - Gemfile
@@ -29,18 +29,3 @@ defaults:
 # Site variables
 title: The Upshift
 description: The words & work of Gamba SK
-
-# archives
-
-jekyll-archives:
-  enabled:
-  - year
-  - month
-  - tags
-  layout: archive                  # _layouts/archive.html
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
