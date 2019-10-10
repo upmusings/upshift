@@ -16,3 +16,5 @@ Brent Simmons [put it nicely](https://inessential.com/2018/04/15/the_view_source
 I guess part of this over-complication and inadvertent obfuscation might come from the fact that we are pushing the web to—and maybe beyond—its limits. I say that like it is a bad thing, and maybe it is, but mostly I just don't know.
 
 I just hope that there are still websites out there with clean markup, sane stylesheets and intelligible JavaScript. My web development depends on it.
+
+<div class="sharethis-inline-reaction-buttons"></div>
