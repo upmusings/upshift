@@ -3,7 +3,7 @@ title: Words
 id_attribute: words
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
 <section>
 	<header>
 		{% if post.title != '' %}
