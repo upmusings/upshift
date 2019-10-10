@@ -1,5 +1,5 @@
 # Build settings
-theme: null # This prevents github-pages gem from forcing a theme which outputs a default stylesheet that we don't need.
+theme:  # This prevents github-pages gem from forcing a theme which outputs a default stylesheet that we don't need.
 plugins:
   - jekyll-feed
   gems:
