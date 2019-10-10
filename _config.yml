@@ -4,7 +4,7 @@ theme: null # This prevents github-pages gem from forcing a theme which outputs 
 plugins:
   - jekyll-feed
   - jemoji
-
+  - jekyll-archives
 exclude:
   - CNAME
   - Gemfile
