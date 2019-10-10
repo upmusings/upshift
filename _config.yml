@@ -1,9 +1,9 @@
 # Build settings
-theme:  # This prevents github-pages gem from forcing a theme which outputs a default stylesheet that we don't need.
-  gems:
-- jemoji
+theme: null # This prevents github-pages gem from forcing a theme which outputs a default stylesheet that we don't need.
+
 plugins:
   - jekyll-feed
+  - jemoji
 exclude:
   - CNAME
   - Gemfile
