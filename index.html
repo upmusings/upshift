@@ -6,6 +6,8 @@ id_attribute: words
 {% for post in site.posts limit:10 %}
 <section>
 	<header>
+		<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5d9f07bfb896dc001299fc33&product=inline-reaction-buttons" async="async"></script>
+
 		{% if post.title != '' %}
 		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% endif %}
