@@ -33,8 +33,11 @@ description: The words & work of Gamba SK
 # archives
 
 jekyll-archives:
-  enabled: []
-  layout: archive
+  enabled:
+  - year
+  - month
+  - tags
+  layout: archive                  # _layouts/archive.html
   permalinks:
     year: '/:year/'
     month: '/:year/:month/'
