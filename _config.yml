@@ -5,6 +5,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - disqus-for-jekyll
+  - jekyll-seo-tag
 
 exclude:
   - CNAME
