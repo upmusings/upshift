@@ -6,6 +6,7 @@ plugins:
   - jemoji
   - disqus-for-jekyll
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - CNAME
