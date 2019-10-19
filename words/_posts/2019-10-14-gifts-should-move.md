@@ -5,10 +5,10 @@ image: https://raw.githubusercontent.com/upmusings/upshift/master/images/aretha.
 date: 2019-10-11 21:51:47 +0300
 ---
 
-**_“A gift that cannot move loses its gift properties.”**
+<center><em><b> A gift that cannot move loses its gift properties.”</b></em></center>
 <br>—Lewis Hyde, The Gift
 
-![](https://raw.githubusercontent.com/upmusings/upshift/master/images/aretha.png)
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/aretha.png" alt="aretha" width="100%"/>
 
- [Amazing Grace](https://www.youtube.com/watch?v=ypHZbtqSU48) is a movie that makes you think about our gifts and how we use them and what responsibility we have to share those gifts with the world. :heart:
+[Amazing Grace](https://www.youtube.com/watch?v=ypHZbtqSU48) is a movie that makes you think about our gifts and how we use them and what responsibility we have to share those gifts with the world. :heart:
 
