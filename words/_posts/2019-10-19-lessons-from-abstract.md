@@ -20,4 +20,4 @@ Here are some of the top nuggets from this absolute mind jam!
 <li>Architect Bjarke Ingels says “There is this catch-22. Nobody will entrust you to build a building until you’ve already built a building."</li>
 <li>Ralph Gilles points out that  “No matter how tough times are, you just do not compromise on the work you do. You just don’t... Taste making takes time. So if you get it wrong, you get it really wrong.”</li></small></p></ol>
 
-****and have you watched :arrow_right_hook:[Amazing grace](https://upshift.tk/words/2019/10/11/gifts-should-move/)?****
+**and have you watched :arrow_right_hook:[Amazing grace](https://upshift.tk/words/2019/10/11/gifts-should-move/)?**
