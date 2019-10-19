@@ -5,8 +5,7 @@ image: https://raw.githubusercontent.com/upmusings/upshift/master/images/aretha.
 date: 2019-10-11 21:51:47 +0300
 ---
 
-<center><em><b> A gift that cannot move loses its gift properties.”</b></em>
-<br>—Lewis Hyde, The Gift/center>
+<em>A gift that cannot move loses its gift properties.” — Lewis Hyde, The Gift</em>
 
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/aretha.png" alt="aretha" width="100%"/>
 
