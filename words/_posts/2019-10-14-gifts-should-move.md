@@ -11,7 +11,7 @@ date: 2019-10-11 21:51:47 +0300
 
 [Amazing Grace](https://www.youtube.com/watch?v=ypHZbtqSU48) is a movie that makes you think *bout* our gifts and how we use 'em and what responsibility we've to share those gifts with the world. :heart:
 
-Its like with the Al-Baḥr Al-Mayyit  y'know! The "Dead" Sea.
+Its like with the Al-Baḥr Al-Mayyit ~ The "Dead" Sea.
 
 Being a landlocked sea with no outflow, its water is trapped with up to 33.7% salinity. The waters are devoid of all life forms, including plants or living creatures, thereby earning it the title of the “Dead” Sea. 
 
