@@ -6,9 +6,11 @@ date: 2019-10-19 23:35:47 +0300
 ---
 
 I had an opportunity to binge-watch one of the Netflix hyped shows; [Abstract.](https://www.netflix.com/title/80057883)
+
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/Abstract-Art.png" alt="abstract" width="100%"/>
 
 Well, it's worth the hype. The whole series has such great insight into the creative process. The design principles cut across so many different fields. It's one of those shows which made me scramble to take notes.
+
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/niemanns.png" alt="niemanns" width="100%"/>
 
 Here are some of the top nuggets from this absolute mind jam!
