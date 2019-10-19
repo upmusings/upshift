@@ -1,6 +1,6 @@
 ---
 
-description: It often takes a third party to bring our great gifts to the larger world.
+description: Abstract, is a netflix original which offers design principles that cut across so many different fields.
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/Abstract-Art.png
 date: 2019-10-19 23:35:47 +0300
 ---
