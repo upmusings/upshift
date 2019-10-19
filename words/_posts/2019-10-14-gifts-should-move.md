@@ -14,4 +14,4 @@ date: 2019-10-11 21:51:47 +0300
 Its like with the Al-Baḥr Al-Mayyit  y'know! The "Dead" Sea.
 Being a landlocked sea with no outflow, its water is trapped with up to 33.7% salinity. The waters are devoid of all life forms, including plants or living creatures, thereby earning it the title of the “Dead” Sea. 
 
-[Give, for whatever you recieve.](https://www.bible.com/bible/111/MAT.10.8.NIV) Its the principle of life; for  _The homeo- stasis.
+[Give, for whatever you recieve.](https://www.bible.com/bible/111/MAT.10.8.NIV) Its the principle of life; for  *The homeo- stasis.*
