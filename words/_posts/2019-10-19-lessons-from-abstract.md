@@ -10,10 +10,10 @@ I had an opportunity to binge-watch one of the Netflix hyped shows; [Abstract.](
 Well, it's worth the hype. The whole series has such great insight into the creative process. The design principles cut across so many different fields. It's one of those shows which made me scramble to take notes.
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/niemanns.png" alt="niemanns" width="100%"/>
 Here are some of the top nuggets from this absolute mind jam!
-<p><small>
-1. Niemann’s emphasis on constraints — one that says the end result must have nothing unnecessary. As he puts it, “ ... get rid of everything that is not essential to making a point.”
-2. Paula Scher's views on work; “You have to be in a state of play... If you’re not in a state of play, you can't make anything.”
-3. Architect Bjarke Ingels says “There is this catch-22. Nobody will entrust you to build a building until you’ve already built a building."
-4. Ralph Gilles points out that  “No matter how tough times are, you just do not compromise on the work you do. You just don’t... Taste making takes time. So if you get it wrong, you get it really wrong.”</small></p>
+<ol><p><small>
+<li>Niemann’s emphasis on constraints — one that says the end result must have nothing unnecessary. As he puts it, “ ... get rid of everything that is not essential to making a point.”</li>
+<li>Paula Scher's views on work; “You have to be in a state of play... If you’re not in a state of play, you can't make anything.”</li>
+<li>Architect Bjarke Ingels says “There is this catch-22. Nobody will entrust you to build a building until you’ve already built a building."</li>
+<li>Ralph Gilles points out that  “No matter how tough times are, you just do not compromise on the work you do. You just don’t... Taste making takes time. So if you get it wrong, you get it really wrong.”</li></small></p></ol>
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/niemanns2.png" alt="niemanns" width="100%" height="70%"/>
 and have you watched [Amazing grace](https://upshift.tk/words/2019/10/11/gifts-should-move/) ?
