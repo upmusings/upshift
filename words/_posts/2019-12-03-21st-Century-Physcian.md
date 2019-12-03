@@ -1,11 +1,11 @@
 ---
-title: The Physician in the 21st Century - Pearl No.01
+title: Medical Pearls - 01
 description: ith time, medicine has changed and it still does, partly due to growth of scientific knowledge and its exchange, yet medicine remains both a science and an art.
 image: https://images.techhive.com/images/article/2017/03/thinkstockphotos-480562701-100713167-large.jpg
 date: 2019-12-03 20:35:47 +0300
 ---
 
-Technical skill, scientific knowledge, and human understanding.... Defines medicine. It’s about how we “know, feels and do”. With time, medicine has changed and it still does, partly due to growth of scientific knowledge and its exchange, yet medicine remains both a science and an art.
+> Technical skill, scientific knowledge, and human understanding.... Defines medicine. It’s about how we “know, feels and do”. With time, medicine has changed and it still does, partly due to growth of scientific knowledge and its exchange, yet medicine remains both a science and an art.
 
 
 **Deductive reasoning and applied technology** form the foundation and the constant reality in medicine is deciphering the complex mechanisms by new approaches to treatment and prevention… the science part of medicine. 
