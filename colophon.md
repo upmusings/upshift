@@ -13,7 +13,7 @@ It may also interest some that this blog supports title-less posts by design, ma
 ## This is a curated list of some of the best or most important tools/resources I’ve come across.
 >
 - HTML is stressful, I’d rather write in [Markdown.](https://daringfireball.net/projects/markdown/)
-- Currently am reading [“The Uninhabitable Earth”](https://www.theguardian.com/books/2019/feb/27/the-uninhabitable-earth-review-david-wallace-wells) by David Wallace-Wells. Important and horrifying.
+- Recommended: [“The Uninhabitable Earth”](https://www.theguardian.com/books/2019/feb/27/the-uninhabitable-earth-review-david-wallace-wells) by David Wallace-Wells. Important and horrifying.
 - I Keep a private micro journal in [iPhone notes](). Note down thoughts each day, how dull they might be.
 - Am a big fan of the [Inzovu Curve](http://inzovucurve.org/)
 - Check this cool video with [Trump & Co singing](https://youtu.be/Lfa5WvqBSq4) 
