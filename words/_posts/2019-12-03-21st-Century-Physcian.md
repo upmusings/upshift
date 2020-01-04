@@ -4,7 +4,7 @@ description: With time, medicine has changed and it still does, partly due to gr
 image: https://images.techhive.com/images/article/2017/03/thinkstockphotos-480562701-100713167-large.jpg
 date: 2019-12-03 20:35:47 +0300
 ---
-**Medicine; The science & Art"**
+<p align="center">**Medicine; The science & Art"**</p>
 
 Technical skill, scientific knowledge, and human understanding.... Defines medicine. It’s about how we “know, feels and do”. With time, medicine has changed and it still does, partly due to growth of scientific knowledge and its exchange, yet medicine remains both a science and an art.
 
