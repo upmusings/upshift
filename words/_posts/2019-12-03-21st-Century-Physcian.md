@@ -4,7 +4,7 @@ description: With time, medicine has changed and it still does, partly due to gr
 image: https://images.techhive.com/images/article/2017/03/thinkstockphotos-480562701-100713167-large.jpg
 date: 2019-12-03 20:35:47 +0300
 ---
- <center><h2> Medicine: The science & Art(https://upshift.tk/words/2019/12/03/21st-Century-Physcian/)</h2> </center>
+ <center><h2> Medicine: The science & Art</h2> </center>
 
 Technical skill, scientific knowledge, and human understanding.... Defines medicine. 
  
