@@ -31,10 +31,11 @@ Thats alot of cancers prevented. Time to sweat for health. :muscle:
 
 ___
 
-
+<p><small>
 [^1]: [Inhibition of Human Lung Cancer Cell Proliferation and Survival by Post-Exercise Serum Is Associated with the Inhibition of Akt, mTOR, p70 S6K, and Erk1/2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5447956/pdf/cancers-09-00046.pdf)
 [^2]: [Here’s Why Exercise Is Crucial in Preventing, Treating Cancer](https://www.healthline.com/health-news/exercise-cancer-prevention-treatment) 
 [^3]: [Association of Leisure-Time Physical Activity With Risk of 26 Types of Cancer in 1.44 Million Adults(https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2521826/ioi160026.pdf)
+</small> </p>
 
 
 
