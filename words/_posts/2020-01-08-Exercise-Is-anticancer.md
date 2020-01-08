@@ -1,8 +1,8 @@
 ---
 title: Exercises protects against Cancer
 description: Blood serum collected from men who did a single bout of high-intensity exercise dramatically reduced the survival of cancer cells.
-image: https://images.techhive.com/images/article/2017/03/thinkstockphotos-480562701-100713167-large.jpg
-date: 2020-01-08 20:35:47 +0300
+image: https://raw.githubusercontent.com/upmusings/upshift/master/images/exercise.png
+date: 2020-01-08 23:35:47 +0300
 ---
 
 So in one of my latest e-surfing i ended up on this one journal page..  an article by *Kurgan et al*[^1] with some medical kind of way fancy title.
@@ -10,6 +10,8 @@ So in one of my latest e-surfing i ended up on this one journal page..  an artic
 **"Inhibition of Human Lung Cancer Cell Proliferation and Survival by Post-Exercise Serum Is Associated with the Inhibition of Akt, mTOR, p70 S6K, and Erk1/2"**
 
 Yep that a long & complex one. But this is what i found interesting in it.
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/IMG_7387.PNG" alt="table1" width="100%"/>
+
  <justify><span style="color:red">Blood serum collected from men who did a single bout of high-intensity exercise dramatically reduced the survival of cancer cells.</span></justify>
  
 If that's still complex here is a simplified version.
