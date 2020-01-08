@@ -5,11 +5,12 @@ image: https://raw.githubusercontent.com/upmusings/upshift/master/images/exercis
 date: 2020-01-08 23:35:47 +0300
 ---
 
-So in one of my latest e-surfing i ended up on this one journal page..  an article by *Kurgan et al*[^1] with some medical kind of way fancy title.
+So in one of my latest e-surfing I ended up on this one journal page..  an article by *Kurgan et al*[^1] with some medical kind of way fancy title.
 
 **"Inhibition of Human Lung Cancer Cell Proliferation and Survival by Post-Exercise Serum Is Associated with the Inhibition of Akt, mTOR, p70 S6K, and Erk1/2"**
 
 Yep that a long & complex one. But this is what i found interesting in it.
+
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/IMG_7387.PNG" alt="table1" width="100%"/>
 
  <justify><span style="color:red">Blood serum collected from men who did a single bout of high-intensity exercise dramatically reduced the survival of cancer cells.</span></justify>
@@ -27,7 +28,7 @@ Looks like its about time to promote physical activity cancer patients as a part
 
 Nah forget the patients, This one study, by JAMA Internal Medicine,[^3] found that physical activity was associated with a significantly decreased risk of not only colon, breast, and endometrial cancers, but also esophageal cancer, liver cancer, stomach cancer, kidney cancer, and myeloid leukemia. 
 
-Thats alot of cancers prevented. Time to sweat for health. :muscle:
+That's alot of cancers prevented. Time to sweat for health. :muscle:
 
 ___
 
