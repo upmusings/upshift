@@ -24,7 +24,7 @@ So i ended up googling up for more on exercise- cancer link.
 It looks like there is concrete evidence that acute exercise as well as exercise training (chronic exercise) induce changes in serum factors that can lead to significant inhibition of cancer cell growth.
 
 Experts recommend 30 minutes of aerobic exercise 3 times a week and strength training 2 to 3 times a week[^2].
-Looks like its about time to promote physical activity cancer patients as a part of management. 
+Its about time to promote physical activity among cancer patients as a part of management. 
 
 Nah forget the patients, This one study, by JAMA Internal Medicine,[^3] found that physical activity was associated with a significantly decreased risk of not only colon, breast, and endometrial cancers, but also esophageal cancer, liver cancer, stomach cancer, kidney cancer, and myeloid leukemia. 
 
