@@ -1,5 +1,5 @@
 ---
-title:Exercises protects against Cancer
+title: Exercises protects against Cancer
 description: Blood serum collected from men who did a single bout of high-intensity exercise dramatically reduced the survival of cancer cells.
 image: https://images.techhive.com/images/article/2017/03/thinkstockphotos-480562701-100713167-large.jpg
 date: 2020-01-08 20:35:47 +0300
