@@ -16,3 +16,5 @@ With time, medicine has changed and it still does, partly due to growth of scien
 *Deductive reasoning and applied technology* form the foundation and the constant reality in medicine is deciphering the complex mechanisms by new approaches to treatment and prevention… the science part of medicine. 
 
 In challenging clinical problems there is a need to identify the crucial elements in a complex. Incidental finding and zebras should be avoided. It’s here where combination of medical knowledge, intuition, experience, and judgment defines the art.
+
+<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="S1ii36s0" data-limit="5" data-color="E22F38"></script>
