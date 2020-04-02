@@ -1,2 +1,2 @@
 # just another personal site.
-# open, you can fork!
+## it's open, you can fork!
