@@ -1,17 +1,19 @@
 ---
 title: Same Mistakes.
-description: why we keep doing the same mistakes. Been there, done that; same mistake. Why? Three basic flaws. 
-They are the reason why we keep doing the same mistake even if we know better.
+description: why we keep doing the same mistakes. Been there, done that; same mistake. Why? Three basic flaws. They are the reason why we keep doing the same mistake even if we know better.
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/exercise.png
 date: 2020-04-03 14:30:47 +0300
 ---
 <center><em>why we keep doing the same mistakes.
 been there, done that; same mistake.
+  
   why?
-Three basic flaws.
+  
+  Three basic flaws.
+  
   They are the reason why we keep doing the same mistake even if we know better.</em></center>
 
-your smart but doing same mistake?
+You are smart but doing same mistake?
 
 ## <justify><span style="color:red">Ego</span></justify> is  the enemy.
 We are too invested in our opinion of ourselves that we don't see the feedback to our actions. Even when we do, we over defend the self.
