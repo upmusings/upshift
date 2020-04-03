@@ -14,23 +14,21 @@ Three basic flaws. They are the reason why we keep doing the same mistake even i
 ## 1. <justify><span style="color:red">Ego</span></justify> is  the enemy.
 We are too invested in our opinion of ourselves that we don't see the feedback to our actions. Even when we do, we over defend our wrong actions.
 
-## 2. It is <justify><span style="color:red">" The Distance"</span></justify>.
+## 2. It is <justify><span style="color:red">"the distance"</span></justify>.
 Its easier to fool ourselves that we're right at a macro-level than at the micro-level. 
 When we are at a distant place, time or position we don't feel the immediate effects of our actions.
 
 That's why many politicians are terrible. They do same shit.
 <br>
-<br>.. Same applies to people who keep eating carb and junks regardless of all health advice ... the painful after-effect isn't that immediate enough to make as change.
+<br>Same applies to people who keep eating carb and junks regardless of all health advice ... the painful after-effect isn't that immediate enough to make as change.
 
 ## + Our<justify><span style="color:red"> Default Perspective</span></justify> limits. 
 
 It's very hard to change the system you are in. It's easier to know what to change / what needs to be improved when at an external reference point. (Basic Galileo physics[^1]).  Here is why knowledge and thinking out the box matter if we are to improve from mistakes we do.
 
 :bulb: got ideas on how to avoid these flaws?
-<br>:inbox:shot me an email [(upshiftmail)](mailto:silasgamba@gmail.com).
-Would love to hear your insights!
-
+<br>:e-mail:shot me an email [(upshiftmail)](mailto:silasgamba@gmail.com).
 
 ___
-**Footnotes**
+Footnotes
 [^1]: <small>Galileo explained why we don’t notice the earth moving — because we’re at the same constant velocity, moving with our planet.
