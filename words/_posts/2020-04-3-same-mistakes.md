@@ -4,7 +4,7 @@ description: why we keep doing the same mistakes. Been there, done that; same mi
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/samemistakes.png
 date: 2020-04-03 14:30:47 +0300
 ---
-<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/samemistakes.PNG" alt="table1" width="100%"/>
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/samemistakes.png" alt="table1" width="100%"/>
 <center><em>
 been there, done that; same mistake!
 <br>why do we keep doing the same mistakes?
@@ -21,8 +21,6 @@ When we are at a distant place, time or position we don't feel the immediate eff
 
 That's why many politicians suck and do same shit 
 .. same applies to people who keep eating carb and junks regardless of all health advice ... the painful after-effect isn't that immediate enough to make as change.
-
-<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/IMG_7387.PNG" alt="table1" width="100%"/>
 
 ## + the limits of our<justify><span style="color:red"> default perspective.</span></justify> 
 
