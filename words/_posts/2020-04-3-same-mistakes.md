@@ -1,20 +1,21 @@
 ---
 title: Same Mistakes.
 description: why we keep doing the same mistakes. Been there, done that; same mistake. Why? Three basic flaws. They are the reason why do we keep doing the same mistake even if we know better.
-image: https://raw.githubusercontent.com/upmusings/upshift/master/images/exercise.png
+image: https://raw.githubusercontent.com/upmusings/upshift/master/images/samemistakes.png
 date: 2020-04-03 14:30:47 +0300
 ---
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/samemistakes.PNG" alt="table1" width="100%"/>
 <center><em>
 been there, done that; same mistake!
-<br>why we keep doing the same mistakes?
+<br>why do we keep doing the same mistakes?
 <br></em></center>
 
-Three basic flaws.They are the reason why we keep doing the same mistake even if we know better.
+Three basic flaws. They are the reason why we keep doing the same mistake even if we know better.
 
 ## <justify><span style="color:red">Ego</span></justify> is  the enemy.
-We are too invested in our opinion of ourselves that we don't see the feedback to our actions. Even when we do, we over defend the self.
+We are too invested in our opinion of ourselves that we don't see the feedback to our actions. Even when we do, we over defend our wrong actions.
 
-## It is the <justify><span style="color:red">distance.</span></justify>
+## It is the <justify><span style="color:red">"distance".</span></justify>
 Its easier to fool ourselves that we're right at a macro-level than at the micro-level. 
 When we are at a distant place, time or position we don't feel the immediate effects of our actions.
 
