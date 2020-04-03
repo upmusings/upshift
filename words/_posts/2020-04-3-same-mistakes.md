@@ -18,10 +18,10 @@ We are too invested in our opinion of ourselves that we don't see the feedback t
 Its easier to fool ourselves that we're right at a macro-level than at the micro-level. 
 When we are at a distant place, time or position we don't feel the immediate effects of our actions.
 
-That's why many politicians suck and do same shit 
-.. same applies to people who keep eating carb and junks regardless of all health advice ... the painful after-effect isn't that immediate enough to make as change.
+That's why many politicians are terrible doing same shit.
+<br>.. Same applies to people who keep eating carb and junks regardless of all health advice ... the painful after-effect isn't that immediate enough to make as change.
 
-## + Limits of our<justify><span style="color:red"> default perspective.</span></justify> 
+## + Our<justify><span style="color:red"> default perspective.</span></justify> limits. 
 
 It's very hard to change the system you are in. It's easier to know change + what needs to be improved when from an external reference point. (Basic Galileo physics[^1]).  Here is why knowledge matter if we are to avoid the same mistakes.
 
