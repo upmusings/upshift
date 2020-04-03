@@ -31,5 +31,5 @@ Would love to hear your insights!
 
 
 ___
-### Footnotes
+** Footnotes**
 [^1]: <small>Galileo explained why we don’t notice the earth moving — because we’re at the same constant velocity, moving with our planet.
