@@ -30,6 +30,6 @@ It's very hard to change the system you are in. It's easier to know what to chan
 <br>:email: shot me an email [(upshiftmail)](mailto:silasgamba@gmail.com).
 
 ___
-__footnotes__
+<u>footnotes</u> 
 
 [^1]: <small> Galileo explained why we don’t notice the earth moving because we’re at the same constant velocity, moving with our planet.
