@@ -27,7 +27,7 @@ That's why many politicians are terrible. They do same shit.
 It's very hard to change the system you are in. It's easier to know what to change / what needs to be improved when at an external reference point. (Basic Galileo physics[^1]).  Here is why knowledge and thinking out the box matter if we are to improve from mistakes we do.
 
 :bulb: got ideas on how to avoid these flaws?
-<br>:email: shot me an email [(upshiftmail)](mailto:silasgamba@gmail.com).
+<br>:email: shoot me an email [(upshiftmail)](mailto:silasgamba@gmail.com).
 
 ___
 <u>footnotes</u> 
