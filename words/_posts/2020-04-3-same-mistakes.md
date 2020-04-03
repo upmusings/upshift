@@ -23,7 +23,7 @@ That's why many politicians are terrible doing same shit.
 
 ## + Our<justify><span style="color:red"> default perspective.</span></justify> limits. 
 
-It's very hard to change the system you are in. It's easier to know change + what needs to be improved when from an external reference point. (Basic Galileo physics[^1]).  Here is why knowledge matter if we are to avoid the same mistakes.
+It's very hard to change the system you are in. It's easier to know what to change / what needs to be improved when at an external reference point. (Basic Galileo physics[^1]).  Here is why knowledge and thinking out the box matter if we are to improve from mistakes we do.
 
 :bulb: got ideas on how to avoid these flaws?
 <br>:mail:shot me an email [(upshiftmail)](mailto:silasgamba@gmail.com).
