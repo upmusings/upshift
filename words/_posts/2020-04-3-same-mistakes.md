@@ -3,13 +3,13 @@ title: Same Mistakes.
 description: why we keep doing the same mistakes. Been there, done that; same mistake. Why? Three basic flaws. 
 They are the reason why we keep doing the same mistake even if we know better.
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/exercise.png
-date: 2020-04-03 11:30:47 +0300
+date: 2020-04-03 14:30:47 +0300
 ---
-<center>why we keep doing the same mistakes.
+<center><em>why we keep doing the same mistakes.
 been there, done that; same mistake.
   why?
 Three basic flaws.
-  They are the reason why we keep doing the same mistake even if we know better.<center>
+  They are the reason why we keep doing the same mistake even if we know better.</em></center>
 
 your smart but doing same mistake?
 
