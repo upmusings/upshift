@@ -13,8 +13,8 @@ date: 2020-04-03 19:30:47 +0300
 <b><align-rigt><span style="color:red">notice the contrast.</span></align-right>
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/sunset1.JPG" alt="table1" width="100%"/>
 
-<center><span style="color:orange"><b>"the hue!"</b><br><em>cracks let the light in.</span></center>
-
+<center><span style="color:orange"><b>"hue!"</b><br></span></center>
+<center><em>cracks let the light in.</center>
 <br>
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/sunset2.JPG" alt="table1" width="100%"/>
 
