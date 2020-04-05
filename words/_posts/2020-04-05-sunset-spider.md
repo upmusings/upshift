@@ -10,13 +10,13 @@ date: 2020-04-03 19:30:47 +0300
 <br>
 
 
-<b><center><span style="color:red"><b>notice the contrast.</span>
+<b><center><span style="color:red"><b>notice the contrast.
 <br>
   <br>
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/sunset1.JPG" alt="table1" width="100%"/>
 <br>
   <br>
-<center><span style="color:orange"><b>"hue!"</b><br></span>
+<center><span style="color:orange"><b>hue!</b><br></span>
 <center><em>cracks let the light in.
 <br>
   <br>
@@ -24,7 +24,7 @@ date: 2020-04-03 19:30:47 +0300
 
 <br>
 <br>
-<b><center><span style="color:blue">the details.</span>
+<center><span style="color:blue"><b>the details.</span>
   <br>
   <br>
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/sunset2.JPG" alt="table1" width="100%"/>
