@@ -24,7 +24,7 @@ date: 2020-04-03 19:30:47 +0300
 
 <br>
 <br>
-<center><span style="color:blue"><b>the details.</span>
+<center><span style="color:blue"><b>the details.
   <br>
   <br>
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/sunset2.JPG" alt="table1" width="100%"/>
