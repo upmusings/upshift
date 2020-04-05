@@ -10,7 +10,7 @@ date: 2020-04-03 19:30:47 +0300
 <br>
 
 
-<b><align-rigt><span style="color:red">notice the contrast.</span></align-right> __ 
+<b><align-rigt><span style="color:red">notice the contrast.</span></align-right>
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/sunset1.JPG" alt="table1" width="100%"/>
 
 <b><center><span style="color:orange">"the hue!"</span></center>
