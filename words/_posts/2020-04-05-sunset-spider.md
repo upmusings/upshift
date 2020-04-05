@@ -1,12 +1,12 @@
 ---
-title: Sunset Web.
+title:
 description: Random sunset spider web pics
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/samemistakes.png
 date: 2020-04-03 19:30:47 +0300
 ---
 
 
-<justify><em>Some random pics of spider-web on leaves I took during one sunset walk. They highlight perfectly some design principles.</em></justify>
+<justify><em>Some random pics of spider-web on leaves I took during one sunset walk. They highlight perfectly some of design principles.</em></justify>
 <br>
 
 
