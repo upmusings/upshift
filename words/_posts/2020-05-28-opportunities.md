@@ -23,5 +23,5 @@ Greet each moment the way it has greeted you; with open arms and endless possibi
 ___
 <b>Notes</b>
 
-<small>check the original tweet by Kheri R. Mbiro [here](https://twitter.com/mndendeule).
+<small>Check the original tweet by Kheri R. Mbiro [here](https://twitter.com/mndendeule).
 
