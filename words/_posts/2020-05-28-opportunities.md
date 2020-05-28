@@ -1,9 +1,8 @@
 ---
 title:
 description: It is a denial of the divinity within us to doubt our potential and our possibilities.
-
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall1.png
-date: 2020-04-07 14:30:47 +0300
+date: 2020-05-28 14:30:47 +0300
 ---
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall1.png" alt="table1" width="100%"/>
 
