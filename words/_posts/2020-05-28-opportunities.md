@@ -14,12 +14,12 @@ Notice Ginger and Lemons are in the front row? Means every one of us will one da
 <justify><em> We know what we are, but not what we may be.— William Shakespeare
 <br></em></justify>
 
-Every life moment thrust us with no rules; unconditional opportunity. It's important not to dilute the power of this with the hardship of yesterday. Greet each moment the way it has greeted you; with open arms and endless possibility.
+Every life moment thrust us with no rules; unconditional opportunity. It's important not to dilute the power of this with the hardship of yesterday. 
+Greet each moment the way it has greeted you; with open arms and endless possibility.
 
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="100%"/>
 
 ___
-Notes
-
+##Notes
 <small>check the original tweet by Kheri R. Mbiro [here](https://twitter.com/mndendeule).
 
