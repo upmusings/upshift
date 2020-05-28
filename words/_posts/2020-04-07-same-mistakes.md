@@ -2,7 +2,7 @@
 title: Same Mistakes.
 description: why we keep doing the same mistakes. Been there, done that; same mistake. Why? Three basic flaws. They are the reason why do we keep doing the same mistake even if we know better.
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/samemistakes.png
-date: 2020-04-03 14:30:47 +0300
+date: 2020-04-07 14:30:47 +0300
 ---
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/samemistakes.png" alt="table1" width="100%"/>
 <center><em> been there, done that; same mistake!
