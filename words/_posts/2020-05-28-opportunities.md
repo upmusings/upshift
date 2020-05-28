@@ -11,8 +11,7 @@ date: 2020-04-07 14:30:47 +0300
 
 Notice Ginger and Lemons are in the front row? Means every one of us will one day have their time to shine... bid your time. <span style="color:red">"Be ready"</span>
 
-<justify><em> We know what we are, but not what we may be.
-<br>— William Shakespeare
+<justify><em> We know what we are, but not what we may be. — William Shakespeare
 <br></em></justify>
 
 Every life moment thrust us with no rules; unconditional opportunity. It's important not to dilute the power of this with the hardship of yesterday. Greet each moment the way it has greeted you; with open arms and endless possibility.
@@ -22,5 +21,5 @@ Every life moment thrust us with no rules; unconditional opportunity. It's impor
 ___
 <u>Notes</u> 
 
-[^1]: <small> :bulb: check the original tweet by Kheri R. Mbiro [here](https://twitter.com/mndendeule).
+[^1]: <small>check the original tweet by Kheri R. Mbiro [here](https://twitter.com/mndendeule).
 
