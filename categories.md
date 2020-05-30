@@ -17,7 +17,7 @@ date: 2020-04-07 14:30:47 +0300
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
   </div>
