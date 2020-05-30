@@ -5,7 +5,9 @@ id_attribute: words
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158309270-1"></script>
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -14,7 +16,6 @@ id_attribute: words
   gtag('config', 'UA-158309270-1');
 </script>
 
-
 <section>
 	<header>
 		
@@ -22,42 +23,6 @@ id_attribute: words
 <script async src="//static.getclicky.com/js"></script>
 
 		{% seo %}
-
-<!-- post list -->
-{% for post in paginator.posts %}
-<li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
-{% endfor %}
-
-
-<!-- pagination -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <span class="webjeda">{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="/">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
-
-
-
 
 		{% if post.title != '' %}
 		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
@@ -71,9 +36,7 @@ id_attribute: words
 </section>
 {% endfor %}
 
-
-<!-- Begin Offer-->
+<!-- Begin Book Hint-->
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/upmusings/upshift/master/images/atomihab.png" alt="" width="43%" height="" /></p>
 <p><strong>Currently Reading</strong>&nbsp;:&nbsp;<em>Atomic Habits,</em> a some sort of&nbsp;practical guide to identifying and changing your habits.</a></p>
-
-<!--End mc_embed_signup-->
+<!-- End Book Hint-->
