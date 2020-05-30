@@ -15,6 +15,14 @@ id_attribute: words
 </script>
 
 
+<section>
+	<header>
+		
+		<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101245280);</script>
+<script async src="//static.getclicky.com/js"></script>
+
+		{% seo %}
+
 <!-- post list -->
 {% for post in paginator.posts %}
 <li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
@@ -49,13 +57,8 @@ id_attribute: words
 {% endif %}
 
 
-<section>
-	<header>
-		
-		<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101245280);</script>
-<script async src="//static.getclicky.com/js"></script>
 
-		{% seo %}
+
 		{% if post.title != '' %}
 		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% endif %}
