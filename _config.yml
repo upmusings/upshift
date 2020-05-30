@@ -7,6 +7,7 @@ plugins:
   - disqus-for-jekyll
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 
 exclude:
   - CNAME
@@ -43,3 +44,7 @@ disqus:
 algolia:
   application_id: '66GFZ72QNH'
   index_name: 'theupshift'
+
+
+paginate: 6
+paginate_path: /page:num/
