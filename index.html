@@ -21,7 +21,9 @@ id_attribute: words
 		
 		<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101245280);</script>
 <script async src="//static.getclicky.com/js"></script>
-
+{% for post in site.posts limit:5 %}
+  {{ post.url }}
+{% endfor %}
 		{% seo %}
 
 		{% if post.title != '' %}
