@@ -21,11 +21,11 @@ id_attribute: words
 		
 		<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101245280);</script>
 <script async src="//static.getclicky.com/js"></script>
-{% for post in site.posts limit:5 %}
-  {{ post.url }}
+
+
 {% endfor %}
 		{% seo %}
-
+		{% for post in paginator.posts limit:5 %}
 		{% if post.title != '' %}
 		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% endif %}
