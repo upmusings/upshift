@@ -43,7 +43,7 @@ body {
 	align-items: center;
 	margin: 0 1.5rem;
 	font-family: var(--font-serif);
-	line-height: 1.35;
+	line-height: 1.4;
 	-webkit-font-smoothing: antialiased; /* Make the text look a little less chunky */
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility; /* Enables kerning and optional ligatures */
@@ -78,7 +78,7 @@ a {
    
 nav {
 	padding: 100px 0 48px 0;
-	font-size: 17px;
+	font-size: 16px;
 	text-align: center;
 	border-bottom: 1px solid rgba(var(--color-text), .1);
 }
@@ -113,7 +113,7 @@ main {
 }
 
 h1 {
-	font-size: 1.75em;
+	font-size: 1.65em;
 }
 
 h2, h3 {
@@ -180,7 +180,7 @@ time span {
    
 #words h1 {
 	margin: 0;
-	font-size: 1.1em;
+	font-size: 1.3em;
 }
 
 #words section {
