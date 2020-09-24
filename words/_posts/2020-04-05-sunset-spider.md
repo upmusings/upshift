@@ -6,7 +6,7 @@ date: 2020-04-03 19:30:47 +0300
 ---
 
 
-<center><em>Another random pic of spider-web on leaves I took during one sunset walk. Note the hue!</em></center>
+<center><em>Another random pic of spider-web on leaves I took during one sunset walk.</em></center>
 <img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/sunset3.JPG" alt="table1" width="100%"/>
 <br><!-- more -->
 <center><em>cracks let the light in.
