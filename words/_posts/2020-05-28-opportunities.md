@@ -4,7 +4,7 @@ description: It is a denial of the divinity within us to doubt our potential and
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall1.png
 date: 2020-05-28 14:30:47 +0300
 categories: Quotes
-layout:no-title-post
+layout: no-title-post
 
 ---
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="80%"/></div>
