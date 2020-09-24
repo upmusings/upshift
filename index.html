@@ -5,9 +5,7 @@ id_attribute: words
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158309270-1"></script>
-
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -16,24 +14,28 @@ id_attribute: words
   gtag('config', 'UA-158309270-1');
 </script>
 
+{% for post in site.posts limit:10 %}
 <section>
 	<header>
 		
 		<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101245280);</script>
 <script async src="//static.getclicky.com/js"></script>
 
-
-{% endfor %}
 		{% seo %}
-		{% for post in paginator.posts limit:5 %}
 		{% if post.title != '' %}
 		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% endif %}
 		<time datetime="{{ post.date }}"><a href="{{ post.url }}">{{ post.date | date_to_string }} <span>∞</span></a></time>
 	</header>
-		{{ post.content | truncatewords: 60 }}
+		{{ post.excerpt }}
 		{% if post.content contains '<!-- more -->' %}
 		<a href="{{ post.url }}">More…</a>
 		{% endif %}
 </section>
 {% endfor %}
+
+<!-- Begin Offer-->
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/upmusings/upshift/master/images/atomihab.png" alt="" width="43%" height="" /></p>
+<p><strong>Currently Reading</strong>&nbsp;:&nbsp;<em>Atomic Habits,</em> a some sort of&nbsp;practical guide to identifying and changing your habits.</a></p>
+
+<!--End mc_embed_signup-->
