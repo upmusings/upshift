@@ -8,7 +8,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-
+  - jekyll-archives
+  
 exclude:
   - CNAME
   - Gemfile
@@ -48,3 +49,14 @@ algolia:
 
 paginate: 1
 paginate_path: /page:num/
+
+
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
