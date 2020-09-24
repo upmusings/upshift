@@ -8,9 +8,10 @@ categories: Quotes
 ---
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="80%"/></div>
 
-<center><em> We know what we are, but not what we may be.
+<span style="color:#D3D3D3 ; font-family:Georgia; font-size:2em;"> <center><em> We know what we are, but not what we may be.
   <br>— William Shakespeare
-<br></em></center>
+<br></em></center></span>
+
 
 Notice Ginger and Lemons are in the front row? Means every one of us will one day have their time to shine... bid your time. <span style="color:red">"Be ready"</span>
 <!-- more -->
