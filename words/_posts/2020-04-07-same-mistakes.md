@@ -9,11 +9,11 @@ date: 2020-04-07 14:30:47 +0300
 <br>why do we keep doing the same mistakes?
 <br></em></center>
 
-Three basic flaws. They are the reason why we keep doing the same mistake even if we know better;
-
+Three basic flaws. They are the reason why we keep doing the same mistake even if we know better; Ego, Proximity & Default Perspective.
+<!-- more -->
 ## 1. <justify><span style="color:red">Ego</span></justify> is  the enemy.
 We are too invested in our opinion of ourselves that we don't see the feedback to our actions. Even when we do, we over defend our wrong actions.
-<!-- more -->
+
 ## 2. It is <justify><span style="color:red">"the distance"</span></justify>.
 Its easier to fool ourselves that we're right at a macro-level than at the micro-level. 
 When we are at a distant place, time or position we don't feel the immediate effects of our actions.
