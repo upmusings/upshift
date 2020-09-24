@@ -6,7 +6,7 @@ date: 2020-05-28 14:30:47 +0300
 categories: Quotes
 
 ---
-<align=center img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="80%"/>
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="80%"/></div>
 
 <center>Gairo Shopping Mall</center>
 
