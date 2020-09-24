@@ -47,7 +47,7 @@ algolia:
   index_name: 'theupshift'
 
 
-paginate: 10
+paginate: 5
 paginate_path: /page:num/
 
 
