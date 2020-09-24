@@ -22,7 +22,7 @@ id_attribute: words
 <script async src="//static.getclicky.com/js"></script>
 
 		{% seo %}
-		{% unless post.title != 'no-title-post' %}
+		{% unless post.layout != 'no-title-post' %}
 		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% endif %}
 		{% if post.layout != 'no-title-post' %}
