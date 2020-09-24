@@ -22,12 +22,47 @@ id_attribute: words
 <script async src="//static.getclicky.com/js"></script>
 
 		{% seo %}
-		{% unless post.layout != 'no-title-post' %}
+		{% if post.title != '' %}
 		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% endif %}
+		---
+title: Words
+id_attribute: words
+---
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158309270-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158309270-1');
+</script>
+
+{% for post in site.posts limit:5 %}
+<section>
+	<header>
+		
+		<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101245280);</script>
+<script async src="//static.getclicky.com/js"></script>
+
+		{% seo %}
+		{% if post.title != '' %}
+		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
 		{% if post.layout != 'no-title-post' %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    {% endif %}
+		{% endif %}
+		
+		<time datetime="{{ post.date }}"><a href="{{ post.url }}">{{ post.date | date_to_string }} <span>∞</span></a></time>
+	</header>
+		{{ post.excerpt }}
+		{% if post.content contains '<!-- more -->' %}
+		<a href="{{ post.url }}"></a>
+		{% endif %}
+</section>
+{% endfor %}
 		<time datetime="{{ post.date }}"><a href="{{ post.url }}">{{ post.date | date_to_string }} <span>∞</span></a></time>
 	</header>
 		{{ post.excerpt }}
