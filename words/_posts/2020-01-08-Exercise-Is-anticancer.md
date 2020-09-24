@@ -18,7 +18,7 @@ Yep that a long & complex one. But this is what i found interesting in it.
 If that's still complex here is a simplified version.
 
 *Exercises kills some cancer cells.*
-
+<!-- more -->
 
 So i ended up googling up for more on exercise- cancer link. 
 It looks like there is concrete evidence that acute exercise as well as exercise training (chronic exercise) induce changes in serum factors that can lead to significant inhibition of cancer cell growth.
