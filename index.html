@@ -14,6 +14,8 @@ id_attribute: words
   gtag('config', 'UA-158309270-1');
 </script>
 
+{% if post.layout != 'no-title-post' %}
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 {% for post in site.posts limit:35 %}
 <section>
 	<header>
@@ -22,9 +24,11 @@ id_attribute: words
 <script async src="//static.getclicky.com/js"></script>
 
 		{% seo %}
-		{% if post.layout != 'no-title-post' %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		
+		{% if post.title != '' %}
+		<h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="external-link-arrow">→</span>{% endif %}</h1>
+		{% endif %}
+
 		
 		<time datetime="{{ post.date }}"><a href="{{ post.url }}">{{ post.date | date_to_string }} <span>∞</span></a></time>
 	</header>
