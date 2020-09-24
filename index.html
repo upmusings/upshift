@@ -43,13 +43,13 @@ id_attribute: words
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Newer Posts</a>
   {% else %}
-    <span>&laquo;</span>
+    <span></span>
   {% endif %}
 
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &raquo;</a>
   {% else %}
-    <span> &raquo;</span>
+    <span></span>
   {% endif %}
 </div>
 {% endif %}
