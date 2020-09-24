@@ -78,7 +78,7 @@ a {
    
 nav {
 	padding: 100px 0 48px 0;
-	font-size: 15px;
+	font-size: 15.5px;
 	text-align: center;
 	border-bottom: 1px solid rgba(var(--color-text), .1);
 }
@@ -113,7 +113,7 @@ main {
 }
 
 h1 {
-	font-size: 1.6em;
+	font-size: 1.55em;
 }
 
 h2, h3 {
@@ -180,7 +180,7 @@ time span {
    
 #words h1 {
 	margin: 0;
-	font-size: 1.4em;
+	font-size: 1.35em;
 }
 
 #words section {
