@@ -26,7 +26,7 @@
 
 html {
 	height: 100%; /* For a sticky footer */
-	font-size: 1.4em;
+	font-size: 1.25em;
 	background-color: rgb(var(--color-background));
 }
 
@@ -43,7 +43,7 @@ body {
 	align-items: center;
 	margin: 0 1.5rem;
 	font-family: var(--font-serif);
-	line-height: 1.45;
+	line-height: 1.4;
 	-webkit-font-smoothing: antialiased; /* Make the text look a little less chunky */
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility; /* Enables kerning and optional ligatures */
@@ -78,7 +78,7 @@ a {
    
 nav {
 	padding: 100px 0 48px 0;
-	font-size: 15px;
+	font-size: 20px;
 	text-align: center;
 	border-bottom: 1px solid rgba(var(--color-text), .1);
 }
@@ -113,7 +113,7 @@ main {
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 1.7em;
 }
 
 h2, h3, h4, h5, h6 {
@@ -177,7 +177,7 @@ time span {
    
 #words h1 {
 	margin: 0;
-	font-size: 1.5em;
+	font-size: 1.3em;
 }
 
 #words section {
