@@ -19,7 +19,7 @@ Every life moment thrust us with no rules; unconditional opportunity. It's impor
 
 Greet each moment the way it has greeted you; with open arms and endless possibility.
 
-<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall1.png" alt="table1" height="70%"/>
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall1.png" alt="table1" width="65%"/>
 
 ___
 <b>Notes</b>
