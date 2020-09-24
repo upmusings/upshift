@@ -7,7 +7,7 @@ categories: Quotes
 layout: no-title-post
 
 ---
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="90%"/></div>
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="100%"/></div>
 
 <center><span style="color:gray; font-family:Georgia; font-size:0.6em;"><em> We know what we are, but not what we may be.<br>— William Shakespeare</em></span>
 </center>
