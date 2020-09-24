@@ -12,7 +12,7 @@ categories: Quotes
 </center>
 
 
-Notice Ginger and Lemons are in the front row? Means every one of us will one day have their time to shine... bid your time. <span style="color:red">"Be ready"</span>
+Notice Ginger and Lemons are in the front row? Means every one of us will one day have their time to shine... bid your time, be ready.
 <!-- more -->
 
 
