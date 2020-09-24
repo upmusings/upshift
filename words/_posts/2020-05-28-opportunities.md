@@ -6,12 +6,12 @@ date: 2020-05-28 14:30:47 +0300
 categories: Quotes
 
 ---
-<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall1.png" alt="table1" width="100%"/>
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="80%"/>
 
 <center>Gairo Shopping Mall</center>
 
 Notice Ginger and Lemons are in the front row? Means every one of us will one day have their time to shine... bid your time. <span style="color:red">"Be ready"</span>
-
+<!-- more -->
 <justify><em> We know what we are, but not what we may be.— William Shakespeare
 <br></em></justify>
 
@@ -19,7 +19,7 @@ Every life moment thrust us with no rules; unconditional opportunity. It's impor
 
 Greet each moment the way it has greeted you; with open arms and endless possibility.
 
-<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="100%"/>
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall1.png" alt="table1" height="70%"/>
 
 ___
 <b>Notes</b>
