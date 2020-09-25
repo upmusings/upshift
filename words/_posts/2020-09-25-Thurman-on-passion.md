@@ -4,7 +4,6 @@ description: Theologian and social justice leader Howard Thurman views on passio
 image: https://miro.medium.com/max/3000/1*QqoS6WsjG6WSr9-BFFQhbA.jpeg
 date: 2020-09-25 15:42:47 +0300
 ---
-
 Theologian and social justice leader **Howard Thurman** on passion: 
 
 >Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.
