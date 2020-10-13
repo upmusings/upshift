@@ -12,6 +12,6 @@ More than 400 years ago, Michel de Montaigne, in his essay “On Experience,” 
 
 All it takes to uncover hidden gems is a clear eye, an open mind, and a willingness to search for inspiration in places other people aren’t willing or able to go.
 
-<i>Excerpt From 
+<small>Excerpt From 
 Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered
-By Kleon, Austin</i>
+By Kleon, Austin</small>
