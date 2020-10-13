@@ -11,7 +11,3 @@ More than 400 years ago, Michel de Montaigne, in his essay “On Experience,” 
 > “In my opinion, the most ordinary things, the most common and familiar, if we could see them in their true light, would turn out to be the grandest miracles . . . and the most marvelous examples.” 
 
 All it takes to uncover hidden gems is a clear eye, an open mind, and a willingness to search for inspiration in places other people aren’t willing or able to go.
-
-<small>Excerpt From 
-Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered
-By Kleon, Austin</small>
