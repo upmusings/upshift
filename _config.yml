@@ -60,3 +60,7 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+    
+    
+twitter:
+  card: summary_large_image
