@@ -23,4 +23,4 @@ Other stuffs.
 2. You can workout and eat healthy, but if you don't deal with the stuff going on in your head and heart you will still be unhealthy.
 3. This is really "[still the one](https://youtu.be/_QWZQh0YYWA)" of the songs that moves me.[🎵](https://youtu.be/_QWZQh0YYWA)
 
-**P.S**  How long will you put off what you are capable of doing just to continue what you are comfortable doing?
+**P.S.**  How long will you put off what you are capable of doing just to continue what you are comfortable doing?
