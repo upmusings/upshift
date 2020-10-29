@@ -1,7 +1,7 @@
 ---
 
 description: In a perfect world, everyone is blind... and other rumblings about october.
-image: https://raw.githubusercontent.com/upmusings/upshift/master/images/solns.jpeg
+image: https://raw.githubusercontent.com/upmusings/upshift/master/images/restyo.png
 date: 2020-10-29 15:42:47 +0300
 ---
 
