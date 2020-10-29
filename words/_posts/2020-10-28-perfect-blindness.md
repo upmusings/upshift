@@ -9,7 +9,7 @@ One aphorism i'have been pondering lately:
 
 **... In a perfect world, everyone is blind.**
 
-Perfect? Blind? Really?
+Perfect? Blind? Really? Everyone?
 
 
 ❗️Update: Just finished Allie's new book, [Solutions and Other Problems](https://www.amazon.com/Untitled-AB-Be-Confirmed-Gallery/dp/1982156945). After i enjoyed Hyperbole and a half, i had to wait for 7 years for her to write a new book. 
