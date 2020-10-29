@@ -9,18 +9,18 @@ One aphorism i'have been pondering lately:
 
 **... In a perfect world, everyone is blind.**
 
-Perfect? Blindness? Really? Everyone?
+Perfect. Blindness? Really, Everyone?
 
 
 <br>
 
-❗️*Update: Just finished Allie's new book, [Solutions and Other Problems](https://www.amazon.com/Untitled-AB-Be-Confirmed-Gallery/dp/1982156945). After i enjoyed Hyperbole and a half, i had to wait for 7 years for her to write a new book. 
+❗️Just finished Allie's new book, [Solutions and Other Problems](https://www.amazon.com/Untitled-AB-Be-Confirmed-Gallery/dp/1982156945). After i enjoyed Hyperbole and a half, i had to wait for 7 years for her to write a new book. 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/solns.jpeg" alt="table1" width="100%"/></div>
-The new book is, Hysterical. Sad. Poignant.& Worth the wait!
+The new book is, Hysterical. Sad. Poignant & Worth' waitn!
 
 Other stuffs.
 1. This 👉🏾 [tweet](https://twitter.com/idrissultan/status/1321699238980603904?s=21) by idris
 2. You can workout and eat healthy, but if you don't deal with the stuff going on in your head and heart you will still be unhealthy.
-3. This really "[still the one](https://youtu.be/_QWZQh0YYWA)" song that moves me.[🎵](https://youtu.be/_QWZQh0YYWA)
+3. This is really "[still the one](https://youtu.be/_QWZQh0YYWA)" of the songs that moves me.[🎵](https://youtu.be/_QWZQh0YYWA)
 
 **P.S**  How long will you put off what you are capable of doing just to continue what you are comfortable doing?
