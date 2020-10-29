@@ -1,0 +1,25 @@
+---
+
+description: In a perfect world, everyone is blind... and other rumblings about october.
+image: https://raw.githubusercontent.com/upmusings/upshift/master/images/nyerere.JPG
+date: 2020-10-29 15:42:47 +0300
+---
+
+One aphorism i'have been pondering lately:
+
+**...In a perfect world, everyone is blind.**
+
+
+Perfect? Blind? Really?
+
+❗️Update:
+Just finished allie's new book, [Solutions and Other Problems](). After i enjoyed Hyperbole and a half, i had to wait for 7 years for her to write a new book. 
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/gairomall2.png" alt="table1" width="100%"/></div>
+The new book is: Hysterical. Sad. Poignant. Worth the wait!!
+
+Other stuffs.
+1. This 👉🏾 [tweet](https://twitter.com/idrissultan/status/1321699238980603904?s=21) by idris
+2. You can workout and eat healthy, but if you don't deal with the stuff going on in your head and heart you will still be unhealthy.
+3. This really "[still the one](https://youtu.be/_QWZQh0YYWA)" song that moves me.[🎵](https://youtu.be/_QWZQh0YYWA)
+
+**P.S** How long will you put off what you are capable of doing just to continue what you are comfortable doing?
