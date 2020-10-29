@@ -9,7 +9,8 @@ One aphorism i'have been pondering lately:
 
 **... In a perfect world, everyone is blind.**
 
-Perfect? Blind? Really? Everyone?
+Perfect? Blindness? Really? Everyone?
+
 
 
 
