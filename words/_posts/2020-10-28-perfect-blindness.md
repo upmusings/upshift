@@ -24,3 +24,6 @@ Other stuffs.
 3. This is really "[still the one](https://youtu.be/_QWZQh0YYWA)" of the songs that moves me.[🎵](https://youtu.be/_QWZQh0YYWA)
 
 **P.S.**  How long will you put off what you are capable of doing just to continue what you are comfortable doing?
+
+
+🎵 {% include embed-audio.html src="/assets/audio/Jimmy%20Cliff%20-%20I%20Can%20See%20Clearly%20Now%20With.mp3?autoplay=1&loop=1&controls=1" %}

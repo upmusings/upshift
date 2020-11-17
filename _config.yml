@@ -9,7 +9,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-archives
-  
+  - jekyll-miniaudio
 exclude:
   - CNAME
   - Gemfile
