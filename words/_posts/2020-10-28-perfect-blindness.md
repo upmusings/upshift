@@ -25,4 +25,4 @@ Other stuffs.
 
 **P.S.**  How long will you put off what you are capable of doing just to continue what you are comfortable doing?
 
-'../assets/audio/rt.mp3?autoplay=1&loop=1&controls=0'
+'theupshift.github.io/assets/audio/rt.mp3?autoplay=1&loop=1&controls=0'
