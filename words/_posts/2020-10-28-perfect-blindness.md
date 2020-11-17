@@ -25,4 +25,4 @@ Other stuffs.
 
 **P.S.**  How long will you put off what you are capable of doing just to continue what you are comfortable doing?
 
-../../assets/audio/rt.mp3
+../assets/audio/rt.mp3
