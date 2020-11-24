@@ -7,9 +7,8 @@ date: 2020-10-29 15:42:47 +0300
 
 One aphorism i'have been pondering lately:
   <br>
-<center><br><b>... In a perfect world, everyone is blind.</b>
+<center><b>... In a perfect world, everyone is blind.</b>
 <br>Perfect. Blindness? Really, Everyone?</center>
-
 
 <br>
 
