@@ -5,11 +5,11 @@ image: https://raw.githubusercontent.com/upmusings/upshift/master/images/restyo.
 date: 2020-10-29 15:42:47 +0300
 ---
 
-One aphorism i'have been pondering lately:
+<center>One aphorism i'have been pondering lately:
 
 **... In a perfect world, everyone is blind.**
 
-Perfect. Blindness? Really, Everyone?
+Perfect. Blindness? Really, Everyone?</center>
 
 
 <br>
