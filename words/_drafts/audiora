@@ -1,0 +1,3 @@
+a htm audio psot linking
+
+🎵 {% include embed-audio.html src="/assets/audio/Jimmy%20Cliff%20-%20I%20Can%20See%20Clearly%20Now%20With.mp3?autoplay=1&loop=1&controls=1" %}
