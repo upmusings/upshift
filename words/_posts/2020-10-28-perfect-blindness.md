@@ -11,7 +11,6 @@ One aphorism i'have been pondering lately:
 <br>Perfect. Blindness? Really, Everyone?</center>
 
 <br>
-
 ❗️It's just Brosh's new book, [Solutions and Other Problems](https://www.amazon.com/Untitled-AB-Be-Confirmed-Gallery/dp/1982156945). After the thrilling Hyperbole and a half, It took 7 years for her to write a new book. 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/solns.jpeg" alt="table1" width="100%"/>pg 376</div>
 The new book is, Hysterical. Sad. Poignant & Worth the wait!
