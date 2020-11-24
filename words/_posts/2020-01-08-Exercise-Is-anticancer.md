@@ -11,7 +11,7 @@ So in one of my latest e-surfing I ended up on this one journal page..  an artic
 
 Yep that a long & complex one. But this is what i found interesting in it.
 
-<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/IMG_7387.PNG" alt="table1" width="100%"/>
+<img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/IMG_7387.png" alt="table1" width="100%"/>
 
  <justify><span style="color:red">Blood serum collected from men who did a single bout of high-intensity exercise dramatically reduced the survival of cancer cells.</span></justify>
  
