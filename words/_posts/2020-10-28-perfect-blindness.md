@@ -6,14 +6,11 @@ date: 2020-10-29 15:42:47 +0300
 ---
 
 One aphorism i'have been pondering lately:
-
-**... In a perfect world, everyone is blind.**
-
-Perfect. Blindness? Really, Everyone?
-
+  <br>
+<center><b>... In a perfect world, everyone is blind.</b>
+<br>Perfect. Blindness? Really, Everyone?</center>
 
 <br>
-
 ❗️It's just Brosh's new book, [Solutions and Other Problems](https://www.amazon.com/Untitled-AB-Be-Confirmed-Gallery/dp/1982156945). After the thrilling Hyperbole and a half, It took 7 years for her to write a new book. 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/upmusings/upshift/master/images/solns.jpeg" alt="table1" width="100%"/>pg 376</div>
 The new book is, Hysterical. Sad. Poignant & Worth the wait!
@@ -26,4 +23,3 @@ Other stuffs.
 **P.S.**  How long will you put off what you are capable of doing just to continue what you are comfortable doing?
 
 
-🎵 {% include embed-audio.html src="/assets/audio/Jimmy%20Cliff%20-%20I%20Can%20See%20Clearly%20Now%20With.mp3?autoplay=1&loop=1&controls=1" %}
