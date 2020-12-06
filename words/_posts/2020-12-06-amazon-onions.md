@@ -1,6 +1,6 @@
 ---
 description: You now can review produce like onions on Amazon. But what does the review of an onion really mean? 
-image: https://raw.githubusercontent.com/upmusings/upshift/master/images/sunset3.JPG
+image: https://raw.githubusercontent.com/upmusings/upshift/master/images/onions.jpg
 date: 2020-12-06 09:24:08 +0300
 ---
 
