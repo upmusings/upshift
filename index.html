@@ -40,7 +40,7 @@ id_attribute: words
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
 	<br>
-  {% if paginator.previous_page %}
+   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Newer Posts</a>
   {% endif %}
 
@@ -52,7 +52,7 @@ id_attribute: words
 
 <style>
 	.pagination a, .pagination span {
-    padding: 4px 18px;
+    padding: 2px 18px;
     border:  1px solid #eee;
     margin-left: -2px;
     margin-right: -2px;
@@ -70,5 +70,4 @@ id_attribute: words
 .pagination {
     text-align: center;
  }
-
 </style>
