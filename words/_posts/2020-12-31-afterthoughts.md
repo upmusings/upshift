@@ -1,4 +1,5 @@
 ---
+title: Hindsight in 2020: (10 thoughts)
 description: Hindsight in 2020: (10 thoughts)
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/onions.jpg
 date: 2020-12-06 09:24:08 +0300
@@ -6,9 +7,9 @@ date: 2020-12-06 09:24:08 +0300
 
 Hindsight in 2020: (10 thoughts)
 
-<b>1. Relationships > everything
+<b>1. Relationships > everything</b>
 
-##2. Shiny objects make us duller:
+<b>2. Shiny objects make us duller:</b>
 
 The grass is always greener until you're standing on it. "No" is still the highest ROI word in my vocabulary.
 
