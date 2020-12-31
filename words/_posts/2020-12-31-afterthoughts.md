@@ -4,7 +4,7 @@ description: 2020 afterthoughts
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/onions.jpg
 date: 2020-12-31 09:24:08 +0300
 ---
-
+<!-- more -->
 <br>
 <b>1. Relationships > everything</b>
 
