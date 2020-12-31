@@ -6,7 +6,7 @@ date: 2020-12-06 09:24:08 +0300
 
 Hindsight in 2020: (10 thoughts)
 
-<br>1. Relationships > everything
+<b>1. Relationships > everything
 
 ##2. Shiny objects make us duller:
 
