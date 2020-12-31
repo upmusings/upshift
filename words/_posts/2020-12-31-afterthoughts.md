@@ -1,6 +1,6 @@
 ---
-title: Hindsight in 2020: (10 thoughts)
-description: Hindsight in 2020: (10 thoughts)
+title: Hindsight in 2020 (10 thoughts)
+description: 2020 afterthoughts
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/onions.jpg
 date: 2020-12-31 09:24:08 +0300
 ---
@@ -31,18 +31,18 @@ We trust a few people or ourselves too much even where we shouldn't often leadin
 
 Too bad it seems (to me) that these mistakes don't stop until the price you pay is so significant you'll never forget it.... ( like losing a life?)
 
-##7. Live for (in) today, not one day. The process far outweighs the outcome in all parameters.
+<b>7. Live for (in) today, not one day. The process far outweighs the outcome in all parameters.
 
-##8. Progress isn't linear:
+<b>8. Progress isn't linear:
 
 Especially when you have a little bit of leverage. One day of inspired execution can generate 100x the results of 30 days of uninspired grinding.
 
-##9. Almost everyone is reasonable: 
+<b>9. Almost everyone is reasonable: 
 
 Practice a little bit of empathy and you'll realize most people are just tired and busy, but incredibly forgiving of honest mistakes.
 
 
-##10. Everyone you admire is still figuring it out: 
+<b>10. Everyone you admire is still figuring it out: 
 
 I had the opportunity to get to know people I genuinely thought were a different species a couple of years ago. 
 
@@ -50,4 +50,4 @@ They aren't. Everyone is trying their best, and those ahead of you are just ridi
 
 
 
-##Cheers to a new year! And all the afterthoughts it's going to bring.
+Cheers to a new year! And all the afterthoughts it's going to bring.
