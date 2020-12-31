@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/upmusings/upshift/master/images/onions.
 date: 2020-12-31 09:24:08 +0300
 ---
 
-
+<br>
 <b>1. Relationships > everything</b>
 
 <b>2. Shiny objects make us duller:</b>
@@ -27,9 +27,9 @@ Plus its like in the boxing, the blows hit harder in the early rounds, just keep
 
 <b>6. The price of a good lesson:
 
-We trust a few people or ourselves too much even where we shouldn't often leading to some decent small sized losses as a result, 
+We trust a few people or ourselves too much even where we shouldn't. Often this lead to some decent small sized losses as a result.
 
-Too bad it seems (to me) that these mistakes don't stop until the price you pay is so significant you'll never forget it.... ( like losing a life?)
+Too bad it seems (to me) that these mistakes don't stop until the price you pay is so significant you'll never forget it.... (like losing a life?)
 
 <b>7. Live for (in) today, not one day. The process far outweighs the outcome in all parameters.
 
@@ -50,4 +50,5 @@ They aren't. Everyone is trying their best, and those ahead of you are just ridi
 
 
 
-Cheers to a new year! And all the afterthoughts it's going to bring.
+Cheers to a new year! 
+And all the afterthoughts it's going to bring 😃
