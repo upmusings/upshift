@@ -2,7 +2,7 @@
 title: Hindsight in 2020: (10 thoughts)
 description: Hindsight in 2020: (10 thoughts)
 image: https://raw.githubusercontent.com/upmusings/upshift/master/images/onions.jpg
-date: 2020-12-06 09:24:08 +0300
+date: 2020-12-31 09:24:08 +0300
 ---
 
 
